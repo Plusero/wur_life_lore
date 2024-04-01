@@ -10,7 +10,7 @@
 
 瓦村学生房源主要由与学校合作的[Idealis](https://www.idealis.nl/en/)提供，并通过[room.nl](https://www.room.nl/)平台进行选房。由于room.nl在分房时按照账号注册时间先后和priority排序，所以新生需要尽早在room上注册。7月左右新生会收到idealis发来的priority邮件，7.15 priority生效后选到房的概率较大。
 
-![idealis_priority](C:\Users\80635\Documents\GitHub\wur_life_lore\assets\idealis_priority.png)
+![idealis_priority](README.assets/idealis_priority.png)
 
 ### 选房
 
@@ -28,9 +28,9 @@
 
 5. 有空调，而其他楼没有。
 
-6. 浴室有空气控制系统，可以根据湿度和二氧化碳浓度动态排气。<img src="C:\Users\80635\Documents\GitHub\wur_life_lore\assets\duco.jpg" alt="duco" style="zoom: 20%;" />
+6. 浴室有空气控制系统，可以根据湿度和二氧化碳浓度动态排气。<img src="README.assets/duco.jpg" alt="duco" style="zoom:20%;" />
 
-7. 有智能电表，可以查看每天各时段功率，每天和每月耗电量。<img src="C:\Users\80635\Documents\GitHub\wur_life_lore\assets\nk_energy.jpg" alt="nk_energy" style="zoom:20%;" />
+7. 有智能电表，可以查看每天各时段功率，每天和每月耗电量。<img src="README.assets/nk_energy.jpg" alt="nk_energy" style="zoom:20%;" />
 
 8. 墙壁和窗户隔音效果极好，只有门隔音较差。
 
@@ -42,7 +42,7 @@
 
 12. 中国人很多，中餐聚会方便。
 
-13. 建筑中没有石棉这种致癌物，荷兰在1993年之后才禁止石棉的使用，而瓦村老公寓都在此之前建成。“所有形式的石棉**对人体均有致癌性**。 接触石棉，包括温石棉，会导致肺癌、喉癌和卵巢癌，还会导致间皮瘤”——[WHO](https://www.who.int/zh/news-room/fact-sheets/detail/asbestos-elimination-of-asbestos-related-diseases#:~:text=所有形式的石棉对,工作场所接触到石棉。)。前段时间M楼的朋友收到了M楼检测石棉的邮件，说明瓦村的老公寓有一定石棉风险。![NL_asbestos](C:\Users\80635\Documents\GitHub\wur_life_lore\assets\NL_asbestos.png)![marijkeweg_asbestos](C:\Users\80635\Documents\GitHub\wur_life_lore\assets\marijkeweg_asbestos.png)
+13. 建筑中没有石棉这种致癌物，荷兰在1993年之后才禁止石棉的使用，而瓦村老公寓都在此之前建成。“所有形式的石棉**对人体均有致癌性**。 接触石棉，包括温石棉，会导致肺癌、喉癌和卵巢癌，还会导致间皮瘤”——[WHO](https://www.who.int/zh/news-room/fact-sheets/detail/asbestos-elimination-of-asbestos-related-diseases#:~:text=所有形式的石棉对,工作场所接触到石棉。)。前段时间M楼的朋友收到了M楼检测石棉的邮件，说明瓦村的老公寓有一定石棉风险.![NL_asbestos](README.assets/NL_asbestos.png)![marijkeweg_asbestos](README.assets/marijkeweg_asbestos.png)
 
     
 
@@ -54,9 +54,9 @@
 
 NK是一个临时集装箱房，但如前文所述设施非常先进，并且有长满青草地的内庭，南北各有一条河，环境优美。
 
-![NK-front](C:\Users\80635\Documents\GitHub\wur_life_lore\assets\NK-front.jpg)
+![NK-front](README.assets/NK-front.jpg)
 
-![NK-3D](C:\Users\80635\Documents\GitHub\wur_life_lore\assets\NK-3D.png)
+![NK-3D](README.assets/NK-3D.png)
 
 NK的详细建筑介绍可以看[这里planviewer.nl](https://www.planviewer.nl/imro/files/NL.IMRO.0289.10Nieuwekanaal1-PJB2/t_NL.IMRO.0289.10Nieuwekanaal1-PJB2.pdf)，这里简要介绍**我**对NK的选房推荐。NK各楼层房号分布基本一致，这里以floor1为例。注意，floor1相当于国内二楼，因为荷兰的楼层从0而非1开始。使用排除法得出最佳房型：
 
@@ -72,9 +72,9 @@ NK的详细建筑介绍可以看[这里planviewer.nl](https://www.planviewer.nl/
 
 经过以上排除后，我最推荐的房间是**1楼和2楼北面，门不直对内庭的，且不在建筑四角的房间**，即**绿圈**内的房间。
 
+![NK-choice](README.assets/NK-choice.png)
 
 
-![NK-choice](C:\Users\80635\Documents\GitHub\wur_life_lore\assets\NK-choice.png)
 
 
 
