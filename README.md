@@ -8,7 +8,7 @@
 
 ### 新生租房简介
 
-瓦村学生房源主要由与学校合作的[Idealis](https://www.idealis.nl/en/)提供，并通过[room.nl](https://www.room.nl/)平台进行选房。由于room.nl在分房时按照账号注册时间先后和priority排序，所以新生需要尽早在room上注册。7月左右新生会收到idealis发来的priority邮件，7.15 priority生效后选到房的概率较大。
+瓦村学生房源主要由与学校合作的[Idealis](https://www.idealis.nl/en/)提供，并通过[room.nl](https://www.room.nl/)平台进行选房。由于room.nl在分房时按照账号注册时间先后和priority排序，所以新生需要尽早在room上注册。7月左右新生会收到idealis发来的priority邮件，7.15 priority生效后选到房的概率较大。总体来讲瓦村租房压力不大，4月注册room.nl也能有一定的房间选择空间，如果和我一样前一年10月开始申请时就注册了，那么有优先权的房子基本随便选。
 
 ![idealis_priority](README.assets/idealis_priority.png)
 
