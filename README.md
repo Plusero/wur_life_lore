@@ -275,9 +275,9 @@ Amazon
 
 记得选择Sim Only套餐，这样远比Prepaid划算。
 
-## 金融:ok:
+## 金融​
 
-### 银行卡
+### 银行卡:ok:
 
 荷兰三大行。ING、ABN、Rabo这荷兰三大银行的银行卡线上申请都需要BSN才能办下来，但线下存在无BSN办下来的可能，并且三家都有免费的学生debit账户。个人比较建议ING和ABN，因为他俩的web和app端都有英语。PS：我办的ABN卡上传居留卡前只能收钱，不能付钱。
 
@@ -286,7 +286,23 @@ Neo Banks。由于BSN、居留卡等身份信息的办理、三大行办卡激�
 至于Neo Banks的安全性，Revolut Bank参与了Lithuanian Deposit Insurance, Bunq B.V.是Dutch Deposit Guarantee Scheme的成员。同时，立陶宛和荷兰作为欧元区国家，都会在2024年全面加入European Deposit Insurance Scheme。上述三个Insurance均提供100k欧的insurance coverage。总之，个人认为Revolut和Bunq的安全性尚可。
 PS: Neo banks也受到监管，注册账户一段时间后（比如90天）需要上传BSN等身份信息。
 
-### 理财
+### 生活开销
+
+生活开销丰俭由人，
+
+
+
+我Bio食物猛吃，300-350欧。
+
+Vegan意大利女生120欧。
+
+
+
+淡季廉航往返120欧
+
+
+
+### 理财:ok:
 
 常见的理财平台有：
 
@@ -306,7 +322,7 @@ PS: Neo banks也受到监管，注册账户一段时间后（比如90天）需�
 
 WUR校园里有一家专门接受学生患者的诊所叫[MC (student-mc.nl)](https://www.student-mc.nl/en/register/)
 
-关于荷兰医疗系统的相信介绍，见
+关于荷兰医疗系统的详细介绍，见
 
 [Dutch healthcare | Thuisarts.nl](https://www.thuisarts.nl/dutch-healthcare)
 
@@ -368,15 +384,61 @@ Into Language
 
 
 
+### 社交渠道
+
+课程同学
+
+爱好组织
+
+
+
+### 组织活动
+
+Party最为稳妥
+
+
+
+
+
 ## 学习
 
-主动
+
+
+### 难度:ok:
+
+不同项目不同课程的难度差异很大，但从统计上来讲，中国学生在WUR拿8+的分数并不算太难。WUR有各专业的[Grading Table](https://www.wur.nl/en/education-programmes/study-abroad-and-exchange-students/outgoing-from-wageningen-university/grading-table.htm)，可以看到近一年各项目授予分数的分布，我个人在简单浏览后发现各项目8分及以上分数的比例为30-50%不等。需要注意的是这个Grading Table并不是所有人的均分，而是特定分数的被授予的数量。
+
+根据2023-2024年的grading table，假设所有课程学分相同，我计算出MBE和MBF专业加权均分别为7.435，7.6，分别作为较难项目和较为简单项目的代表。总之，你可以理解为WUR硕士的加权均分为7.5左右。
+
+就我个人体验来讲，WUR的难度远低于哈工大深圳，我在WUR每周课内学习专注时间20-30h，偶尔忙的时候40h，并且保持了考前不高强度复习的坏习惯，一年下来均分8.125，在WUR应该是前20%左右的水平。
+
+那为什么在网络上会听到欧洲衡水的说法呢？第一，中国学生普遍英语较差，极少数人在入学前能达到无语言障碍上课的水平，所以入学后自然痛苦。第二，吃喝玩乐是部分中国学生的生活中心，而非学习。第三，要考虑到中国学生经典的“谦虚”或者说“凡尔赛”文化。其实造成这一现象的原因还有很多，但总体而言，WUR硕士强度绝对不如国内985。
+
+<img src="README.assets/MBE_grading_table.png" alt="MBE" style="zoom:50%;" />
+
+<img src="README.assets/MBE_grading_table.png" alt="MBF" style="zoom:50%;" />
+
+
+
+### 组队技巧
+
+
+
+### 一些小技巧
+
+给老师留下好印象
+
+二八原则
 
 
 
 ## 兼职
 
 ### TA (Teaching Asisstant)
+
+对于需要TA的课，当TA最常见的方式是第一年上这门课多跟老师互动，取得好成绩，
+
+
 
 主动找老师询问职位即可
 
