@@ -151,25 +151,15 @@ Idealis的工作时间非常短，这非常不利于新生取钥匙。第一种�
 
 
 ### 配件
-
 锁
-
 一般来讲，自行车会自带一个这样的环形锁，把轮胎和车身锁住。在瓦村这样相对安全的地方，这个环形锁基本够用。![image-20240719123839550](README.assets/ringslot.png)
-
 但如果你是风险厌恶型选手，建议再来一个链锁，把车身和停车架等不可移动的东西锁在一起。
-
 ![image-20240719124118007](README.assets/bikelock.png)
 
-
-
 车灯
-
 荷兰法律规定晚上骑车必须打开前后车灯，前灯白色或黄色，尾灯红色，不开灯被抓会罚款大几十欧。
 
-
-
 车包
-
 车包是在瓦村买菜遛弯的必备配件，因为自己的背包往往容量不足，而且背着一大堆东西骑车很不舒服。车包选择防水大容量的即可，我个人在瓦村市中心的[Blokker](https://maps.app.goo.gl/Q8q9D3u3e716UcDw6)买的这一款[车包](https://www.blokker.nl/dubbele-fietstas-40l-recycled/3529028.html)，价格比较高但是防水耐造，容量很大，可以一次性装下两人份一周的菜。
 
 ![image-20240714145725057](README.assets/fietstas.png)
@@ -216,49 +206,73 @@ OV卡办理有两种方式，第一种是去官方购买[OV-Chipkaart.nl - OV-Ch
 
 除了周免卡外，NS的其他各种优惠也可以在[NS官网](https://www.ns.nl/abonnementen/)办理。
 
-
-
-## 购物
+## 购物:ok:
 
 ### 超市
 
-AH
+> 各大连锁超市基本都有会员卡，一定要注册，能省下很多钱。一般来讲线上注册
 
-AH togo
+[Jumbo](https://maps.app.goo.gl/jKDPLte92FNiLvdT7)，最常见的荷兰连锁超市之一，离B楼、D楼、H楼非常近
 
-AH XL
+ [Groentehal De Goudreinet](https://maps.app.goo.gl/TZhWMbJCf1dsXCBN6), Jumbo对面的蔬菜店
 
-Jumbo 
+[新中国](https://maps.app.goo.gl/Ki8G47kgc9xQYwPG6Jumbo), Jumbo对面的中国超市，非常方便但是价格很高
 
-Spar
+[AH](https://maps.app.goo.gl/dbKep3Hy6yKBu1wM8)，荷兰最大的连锁超市，离Javastraat和Churchillweg非常近，是我最喜欢的超市，品质高，app体验好，价格在有折扣的情况下并不贵，强烈建议开他家的12欧一年的Premium会员，可以获得很多额外的折扣，基本一个月就回本了。与AH联动的[Air Miles](https://www.airmiles.nl/)也一定要打开，购物积分后可以换各种优惠券或者购物抵现金。AH的[Koopzegels]([Koopzegels nu digitaal sparen | Albert Heijn (ah.nl)](https://www.ah.nl/acties/koopzegels?gad_source=1&gclid=CjwKCAjw4_K0BhBsEiwAfVVZ_-DryLxTLEsivbfaal-klaGLmKdrYZbSQI9spxPMCzcRS8j3F-X7xBoCxqMQAvD_BwE))对于以AH为主力超市的同学来说也是不错的理财产品，每次购物赞Koopzegel，攒满49欧后可以换52欧现金，或者在购物时抵扣52欧。
 
-Jumbo对面
+[Foladi Groenten & Fruit](https://maps.app.goo.gl/hjJgJfzCDMjLJ7Ls6), AH对面的蔬菜店，品质很好但是价格较高。
 
+[Lidl](https://maps.app.goo.gl/iTVgsaSjHjs5TBCS9), 德国来的廉价超市，离Javastraat和Churchillweg非常近，价格比较便宜。
 
+[Hoogvliet](https://maps.app.goo.gl/gmNbNa2Qc6fGscRA8)，离M楼和Costerweg非常近，价格比较便宜。
+
+[AH togo](https://maps.app.goo.gl/Sw9GFYQTVr2uqCEXA)，严格意义上不是超市，是AH旗下的便利店，能买到面包、三明治等速食，价格非常贵。
+
+[AH XL](https://maps.app.goo.gl/rypG8nfMnmjNL4eX9)，AH的超大版，在隔壁城市ede，是瓦村及附近东西最全的超市，从Forum骑车过去大概20-30min。
+
+[Spar](https://maps.app.goo.gl/Kg2jVViuYQP35vwj8)，在NK北面的居民区中，价格非常贵。
+
+对于看重价格的同学，可以使用超市比价网站[Supermarktscanner](https://www.supermarktscanner.nl/)，搜索物品名称，选择超市即可快速查看价格。
+
+| ![scanner](README.assets/supermarktscanner.png) |
+| :---------------------------------------------: |
+|          Supermarketscanner Interface           |
+
+| ![Bij de grote twee ketens, Jumbo en Albert Heijn, schommelen de prijzen rond het gemiddelde.](README.assets/Boodschappen - OFP.jpeg) |
+| :----------------------------------------------------------: |
+| 荷兰各超市价格与价格中位数的对比，来自[rtl.nl](https://www.rtl.nl/rtl-nieuws/rtl-z/artikel/5387396/consumentenbond-spar-duurste-supermarkt-dirk-goedkoopste) |
+
+### 集市
+
+瓦村每周三8：30-13：00，每周六8：30-17：00有集市，可以买到新鲜的海产、肉和蔬菜，以及各种杂物。
+
+参见，[Koopzondagen en markt - Gemeente Wageningen](https://www.wageningen.nl/direct-regelen/bouwen-wonen-groen/wonen/koopzondagen-en-markt/#:~:text=Elke woensdag van 8.30 tot,Markt%2C Raadhuisplein en de Vijzelstraat.)
 
 ### 日用杂物
 
-Action
+[Action](https://maps.app.goo.gl/gewnGTc8KCY4Cax26)，市中心的杂物店，有各种家居用品价格便宜品质一般。
 
+[HEMA](https://maps.app.goo.gl/hhxfBmXsdg2vgBcT7), 市中心的杂物店，也有衣服厨具等东西。
 
+[Blokker](https://maps.app.goo.gl/D8YxGyzcs1rzMRVG7), 位于市中心，主营厨具。
 
-### 厨具
+[etos](https://maps.app.goo.gl/X2564gavSRfwuS3S8), 市中心的药妆店。
 
-Blokker
+[Kruidvat](https://maps.app.goo.gl/ZtgnJj48xbnYpTtq5), 市中心的日用品店。
 
-
+以及散布瓦村的各种Kringloop(二手店)。
 
 ### 网购
 
-Ochama
+[ochama](https://www.ochama.com/), 京东的欧洲部门，国内产品丰富，很多产品可以做到隔日达，需要注意的是很多打折产品是离保质期较近。
 
-Bol
+[Bol](www.bol.com), 荷兰最大的本土电商，货品较少自营产品基本能隔日达，在AH有[Budbee](https://budbee.com/)自提柜。
 
-Amazon
+[Amazon.nl](www.amazon.nl), 亚麻不必多说，货品在海外电商平台中最为齐全。
 
-自提点
+[Marktplaats](https://www.marktplaats.nl/), 荷兰闲鱼
 
-
+快递建议放到自提点或者快递柜，包裹被偷在瓦村各学生公寓非常常见。
 
 ## 通信:ok:
 
@@ -374,6 +388,12 @@ WUR的中国学生大部分用的保险是Aon，Aon的覆盖范围还不错，�
 
 ### 荷兰语
 
+
+
+最常用的荷兰语强烈建议学习，能留下很好的第一印象，快速拉近与荷兰人的距离。
+
+
+
 ThuisWageningen
 
 Into Language
@@ -412,17 +432,26 @@ Party最为稳妥
 
 就我个人体验来讲，WUR的难度远低于哈工大深圳，我在WUR每周课内学习专注时间20-30h，偶尔忙的时候40h，并且保持了考前不高强度复习的坏习惯，一年下来均分8.125，在WUR应该是前20%左右的水平。
 
-那为什么在网络上会听到欧洲衡水的说法呢？第一，中国学生普遍英语较差，极少数人在入学前能达到无语言障碍上课的水平，所以入学后自然痛苦。第二，吃喝玩乐是部分中国学生的生活中心，而非学习。第三，要考虑到中国学生经典的“谦虚”或者说“凡尔赛”文化。其实造成这一现象的原因还有很多，但总体而言，WUR硕士强度绝对不如国内985。
-
-<img src="README.assets/MBE_grading_table.png" alt="MBE" style="zoom:50%;" />
-
-<img src="README.assets/MBE_grading_table.png" alt="MBF" style="zoom:50%;" />
+那为什么在网络上会听到欧洲衡水的说法呢？第一，中国学生普遍英语较差，极少数人在入学前能达到无语言障碍上课的水平，所以入学后自然痛苦。第二，吃喝玩乐是部分中国学生的生活中心，而非学习。第三，要考虑到中国学生经典的“谦虚”或者说“凡尔赛”文化。其实造成这一现象的原因还有很多，但总体而言，WUR硕士难度不如国内985。
 
 
+| <img src="README.assets/MBE_grading_table.png" alt="MBE" style="zoom:50%;" /> |
+| :----------------------------------------------------------: |
+|        Gtading Table for MBE, academic year 2023-2024        |
+
+| <img src="README.assets/MBE_grading_table.png" alt="MBF" style="zoom:50%;" /> |
+| :----------------------------------------------------------: |
+|        Gtading Table for MBE, academic year 2023-2024        |
 
 ### 组队技巧
 
+团建活动
 
+瓦村密室逃脱，[Escape Room Wageningen](https://maps.app.goo.gl/M4uZDYLtYf6VuQtv9)
+
+隔壁Veenendaal的保龄球，[Olround Bowling Veenendaal](https://maps.app.goo.gl/7jvGJAdz1MtLiS5V6)
+
+NK对面[Onder de Linden](https://maps.app.goo.gl/zHwNknfEbBYRCQVJ6), 市中心[De Kater](https://maps.app.goo.gl/56jpuRMuM7Bi464X7)之类的Cafe。
 
 ### 一些小技巧
 
@@ -436,36 +465,30 @@ Party最为稳妥
 
 ### TA (Teaching Asisstant)
 
-对于需要TA的课，当TA最常见的方式是第一年上这门课多跟老师互动，取得好成绩，
-
-
-
-主动找老师询问职位即可
-
-通常老师会在
-
-
+对于需要TA的课，当TA最常见的方式是第一年上这门课多跟老师互动，取得好成绩，然后老师就会邀请你当次年的TA。
 
 ### 杂工
 
 送外卖
 
 1. [Thuisbezorg](https://www.thuisbezorgd.nl/bezorger?utm_source=mainsite&utm_medium=Referral&utm_campaign=RC_M_WS_NLD_NL_[SCOOB]_[AWRN]_[OWMD]_[Nederlands])
-2. 
-
-餐厅服务员
-
-
-
-TWV许可
-
-下签时间一周到两个月不等，建议按照一个月预估。
-
-需要将保险换成
+2. 餐厅服务员
 
 
 
 
 
+留学生打工需要申请[TWV](https://www.uwv.nl/en/employers/work-permits)许可，通过时间一周到两个月不等，建议按照一个月预估。打工期间需要买[Dutch Basic health insurance](https://www.hetcak.nl/en/uninsured/getting-dutch-health-insurance/)，价格基本在120-150欧左右，学生可以申请[荷兰政府的医保补贴](https://www.government.nl/topics/health-insurance/applying-for-healthcare-benefit)，基本能覆盖保险全部金额。
 
+
+
+
+
+## 文化
+
+主动
+
+灵活
+
+直接
 
