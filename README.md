@@ -289,7 +289,7 @@ OV卡办理有两种方式，第一种是去官方购买[OV-Chipkaart.nl - OV-Ch
 
 记得选择Sim Only套餐，这样远比Prepaid划算。
 
-## 金融​
+## 金融:ok:
 
 ### 银行卡:ok:
 
@@ -299,20 +299,6 @@ Neo Banks。由于BSN、居留卡等身份信息的办理、三大行办卡激�
 本人使用Revolut和Bunq，这两家不用实体卡就能用Apple Pay（荷兰几乎所有店都支持contactless），所以开户后就能不带银行卡出门啦。Revolut只需要上传护照和Visa就可以光速开户，Bunq要了我的护照、签证和租房合同。由于国内的信用卡无法直接给Revolut和Bunq账户充值，所以可以向可靠的朋友借余额。
 至于Neo Banks的安全性，Revolut Bank参与了Lithuanian Deposit Insurance, Bunq B.V.是Dutch Deposit Guarantee Scheme的成员。同时，立陶宛和荷兰作为欧元区国家，都会在2024年全面加入European Deposit Insurance Scheme。上述三个Insurance均提供100k欧的insurance coverage。总之，个人认为Revolut和Bunq的安全性尚可。
 PS: Neo banks也受到监管，注册账户一段时间后（比如90天）需要上传BSN等身份信息。
-
-### 生活开销
-
-生活开销丰俭由人，
-
-
-
-我Bio食物猛吃，300-350欧。
-
-Vegan意大利女生120欧。
-
-
-
-淡季廉航往返120欧
 
 
 
@@ -326,25 +312,23 @@ Vegan意大利女生120欧。
 
 
 
-## 医疗
+## 医疗:ok:
 
-### 家庭医生
-
-荷兰家庭医生（GP）的职责是进行分级诊疗，
-
-
-
-WUR校园里有一家专门接受学生患者的诊所叫[MC (student-mc.nl)](https://www.student-mc.nl/en/register/)
+荷兰医疗理念与其他欧洲国家类似，全民普及覆盖广泛的医疗保险，能很好地避免因病返贫，但随之而来的坏处是医疗效率较低。虽然荷兰的医疗系统整体上效率比隔壁德国高，但大家也不能抱有太多期待。总体来讲荷兰医疗的效率和医生水平都次于发达地区医院以及欠发达地区中心医院，因此在荷兰一定要注意身体健康，降低患病概率。
 
 关于荷兰医疗系统的详细介绍，见
 
 [Dutch healthcare | Thuisarts.nl](https://www.thuisarts.nl/dutch-healthcare)
 
+### 家庭医生
 
+荷兰家庭医生（GP）的职责是进行分级诊疗，所以GP是我们获得医疗服务的第一站，医院只有在急诊或者GP开转诊单的情况下才接受病人。所有荷兰居民只能用自己的BSN绑定一家GP，在非急诊的情况下也只能找绑定的GP。大多数学生会绑定WUR校园里一家专门接受学生患者的诊所叫[MC (student-mc.nl)](https://www.student-mc.nl/en/register/)，但也可以绑定别的GP，GP信息可以在这里找到[10 huisartsen met de tekst 'Wageningen' in Nederland (zorgkaartnederland.nl)](https://www.zorgkaartnederland.nl/huisarts?zoekterm=Wageningen)， 准备好BSN然后联系GP即可登记，完成后即可找GP预约看病。
+
+GP的诊疗水平一般不会很高，并且秉持能自愈就自愈原则，大多数时候会给你开Paracetamol（扑热息痛），Ibuprofen（布洛芬）等止痛药把你打发走，所以想把自己送去医院得到非止痛的政治
 
 ### 急诊
 
-荷兰急诊直接打电话112，在瓦村打急诊基本会被送到[Ziekenhuis Gelderse Vallei](https://www.geldersevallei.nl/)接受治疗。
+荷兰急诊直接打电话112，在瓦村打急诊基本会被送到Ede的[Ziekenhuis Gelderse Vallei](https://www.geldersevallei.nl/)接受治疗。
 
 ### 牙医
 
@@ -354,29 +338,31 @@ WUR校园里有一家专门接受学生患者的诊所叫[MC (student-mc.nl)](ht
 
 可以在[Tandarts.nl](https://www.tandarts.nl/)或者[tandartsregister.nl](https://tandartsregister.nl/tandarts/wageningen/)上找到其他牙医诊所，然后打还在收治新病人的诊所的电话注册。
 
-
-
 ### 药店
 
 荷兰语的药店叫Apotheek，非处方药可以随便买，向店员描述症状即可。
 
 NK南面穿过运河就是一家[药店](https://maps.app.goo.gl/HWMpPnKDphF2iZAs6)，其他药店在Google Map上搜索Apotheek就能找到。
 
-
-
-### 报销
+### 保险报销
 
 WUR的中国学生大部分用的保险是Aon，Aon的覆盖范围还不错，报销流程也简单，只是处理报销的时间可能会比较长，一两个月是很正常的时间。
 
 需要注意的是，关于牙科，Aon保险报销紧急项目（紧急如何定义有aruge空间），洗牙等护理项目不能报销。
 
-## 运动
+## 运动:ok:
 
-### SCB
+荷兰娱乐活动远不如国内丰富，但运动氛围非常好，很多小众的运动在WUR也能找到人一起玩。运动是保持身心健康的重要方式，这一价值在荷兰医疗系统效率不高、在异国他乡容易感到孤独的情况下尤为重要。
 
+WUR的体育中心叫[Sports Centre de Bongerd](https://www.wur.nl/nl/sports-centre-de-bongerd.htm)（SCB），场地十分丰富，整个校园的东南角都是SCB的场地。SCB的运动权力（Sport Rights) 年费114欧（2023-2024年），[购买](https://www.wur.nl/en/sports-centre-de-bongerd/this-is-how-you-request-sports-rights.htm)后可以在SCB的场地进行运动，并免费参加各种课程。特别需要注意的是，健身房需要刷卡进入，而刷卡进入的权限需要选择Fitness Introduction Beginners这门课后才会打开。
 
+运动协会清单：
 
+[Student Sports Associations - WUR](https://www.wur.nl/en/sports-centre-de-bongerd/swu-thymos/student-sports-associations.htm)
 
+预约场地和课程：
+
+[SCB - Sportaanbod (mendixcloud.com)](https://sporthalreservering.mendixcloud.com/)
 
 ## 语言
 
@@ -459,9 +445,25 @@ NK对面[Onder de Linden](https://maps.app.goo.gl/zHwNknfEbBYRCQVJ6), 市中心[
 
 二八原则
 
+Unilever和Plus Ultra2可以白嫖咖啡
+
 
 
 ## 兼职
+
+### TWV
+
+留学生打工需要申请[TWV](https://www.uwv.nl/en/employers/work-permits)许可，通过时间一周到两个月不等，建议按照一个月预估。打工期间需要买[Dutch Basic health insurance](https://www.hetcak.nl/en/uninsured/getting-dutch-health-insurance/)，价格基本在120-150欧左右，学生可以申请[荷兰政府的医保补贴](https://www.government.nl/topics/health-insurance/applying-for-healthcare-benefit)，基本能覆盖保险全部金额。
+
+
+
+### Freelance
+
+
+
+
+
+
 
 ### TA (Teaching Asisstant)
 
@@ -478,7 +480,7 @@ NK对面[Onder de Linden](https://maps.app.goo.gl/zHwNknfEbBYRCQVJ6), 市中心[
 
 
 
-留学生打工需要申请[TWV](https://www.uwv.nl/en/employers/work-permits)许可，通过时间一周到两个月不等，建议按照一个月预估。打工期间需要买[Dutch Basic health insurance](https://www.hetcak.nl/en/uninsured/getting-dutch-health-insurance/)，价格基本在120-150欧左右，学生可以申请[荷兰政府的医保补贴](https://www.government.nl/topics/health-insurance/applying-for-healthcare-benefit)，基本能覆盖保险全部金额。
+
 
 
 
