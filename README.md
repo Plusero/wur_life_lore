@@ -238,7 +238,7 @@ OV卡办理有两种方式，第一种是去官方购买[OV-Chipkaart.nl - OV-Ch
 | :---------------------------------------------: |
 |          Supermarketscanner Interface           |
 
-| ![Bij de grote twee ketens, Jumbo en Albert Heijn, schommelen de prijzen rond het gemiddelde.](README.assets/Boodschappen - OFP.jpeg) |
+| ![Bij de grote twee ketens, Jumbo en Albert Heijn, schommelen de prijzen rond het gemiddelde.](README.assets/Boodschappen.jpeg) |
 | :----------------------------------------------------------: |
 | 荷兰各超市价格与价格中位数的对比，来自[rtl.nl](https://www.rtl.nl/rtl-nieuws/rtl-z/artikel/5387396/consumentenbond-spar-duurste-supermarkt-dirk-goedkoopste) |
 
