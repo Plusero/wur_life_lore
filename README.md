@@ -101,7 +101,7 @@ Idealis的工作时间非常短，这非常不利于新生取钥匙。第一种�
 
 | 月份    | 室内             | 室外                    | 备注                                                         |
 | ------- | ---------------- | ----------------------- | ------------------------------------------------------------ |
-| 11-3    | 短袖t恤+长袖衬衫 | 短袖t恤+长袖衬衫+羽绒   | 由于能源危机，环保因素等原因，WUR教学楼室内大概20度左右，穿短袖会比较冷 |
+| 11-3    | 短袖t恤+长袖衬衫 | 短袖t恤+长袖衬衫+羽绒   | 由于能源危机，环保等因素的影响，WUR教学楼室内大概20度左右，穿短袖会比较冷。 |
 | 4-5, 10 | 短袖t恤+长袖衬衫 | 短袖t恤+长袖衬衫+冲锋衣 | 这里的穿着均为平均值，不代表少数极端气温                     |
 | 6-9     | 短袖t恤          | 短袖t恤                 |                                                              |
 
@@ -123,7 +123,7 @@ Idealis的工作时间非常短，这非常不利于新生取钥匙。第一种�
 
 第二，为什么买高质量？
 
-自行车作为每天都要陪伴我们的伙伴，如果很难骑或者经常损坏会十分令人糟心，所以我非常不建议为了省个一两百欧买伊拉克战损的n手车。破烂n手车虽然几十欧就能拿下，但是后续维修、换车所需的时间和金钱成本完全足够让你在一开始买一辆好车。那么如何判断车的质量呢？从价格上来看，正规车店200欧以上的车都还不错。从车本体而言，链条光滑，漆面无大面积脱落，换挡顺滑，车轴和车体连接不松垮的车质量不会太差。
+自行车作为每天都要陪伴我们的伙伴，如果很难骑或者经常损坏会十分令人糟心，所以我非常不建议为了省个一两百欧买伊拉克战损的n手车。破烂n手车虽然几十欧就能拿下，但是后续维修、换车所需的时间和金钱成本完全足够让你在一开始买一辆好车。那么如何判断车的质量呢？从价格上来看，正规车店200欧以上的车都还不错。对车本体而言，链条光滑，漆面无大面积脱落，换挡顺滑，车轴和车体连接不松垮的车质量不会太差。
 
 第三，为什么去正规车店买？
 
@@ -166,7 +166,7 @@ Idealis的工作时间非常短，这非常不利于新生取钥匙。第一种�
 
 ### 骑车规则
 
-荷兰交通规则与国内大体类似，主路先行，让右，礼让行人。这里列出几个和国内比较明显的不同。
+荷兰交通规则与国内大体类似，主路先行，让右，礼让行人。这里列出几个和国内比较明显地不同。
 
 1. 左右转弯前伸出对应手臂指明转弯方向。
 2. 地上的鲨鱼牙代表你必须让行![shark](README.assets/shark_teeth.jpeg)。
@@ -194,7 +194,7 @@ Idealis的工作时间非常短，这非常不利于新生取钥匙。第一种�
 
 荷兰公交在欧洲范围内算是非常顶级的存在了，公交、火车频率一般在每30、60分钟一趟，准点情况也远好于隔壁德国[DB](https://int.bahn.de/en)。可以直接通过Google Map，Apple Maps查看车辆班次，但荷兰人都更喜欢[9292.nl](https://9292.nl/)。公交的实时位置可以通过[ovzoeker.nl](https://www.ovzoeker.nl/)查看。
 
-荷兰全国通用的乘车方式是刷卡乘车，上下车都要刷，被抓到逃票会罚款几十欧，只上车刷而不下车刷会按最大可能行程扣款或者罚款。Mastervard或者Visa卡（ApplePay上的卡也行）可以直接刷，然后通过[OVpay](https://www.ovpay.nl/en)查看记录，也可以刷[OV卡](https://www.ov-chipkaart.nl/)。我个人比较推荐用OVpay，因为用了ApplePay以后可以只带手机出行，并且OVpay的app会实时显示check-in和check-out的消息，避免了OV卡不知道是否刷卡成功的问题。另外，ApplePay+OVpay也远比OV卡灵敏，刷卡时基本在1s内成功，而OV卡很多时候会出现好几秒甚至更长时间才能刷上的情况。
+荷兰全国通用的乘车方式是刷卡乘车，上下车都要刷，逃票被抓到会罚款几十欧，只上车刷而不下车刷会按最大可能行程扣款或者罚款。Mastervard或者Visa卡（ApplePay上的卡也行）可以直接刷，然后通过[OVpay](https://www.ovpay.nl/en)查看记录，也可以刷[OV卡](https://www.ov-chipkaart.nl/)。我个人比较推荐用OVpay，因为用了ApplePay以后可以只带手机出行，并且OVpay的app会实时显示check-in和check-out的消息，避免了OV卡不知道是否刷卡成功的问题。另外，ApplePay+OVpay也远比OV卡灵敏，刷卡时基本在1s内成功，而OV卡很多时候会出现好几秒甚至更长时间才能刷上的情况。
 
 ### OV卡办理
 
@@ -300,8 +300,6 @@ Neo Banks。由于BSN、居留卡等身份信息的办理、三大行办卡激�
 至于Neo Banks的安全性，Revolut Bank参与了Lithuanian Deposit Insurance, Bunq B.V.是Dutch Deposit Guarantee Scheme的成员。同时，立陶宛和荷兰作为欧元区国家，都会在2024年全面加入European Deposit Insurance Scheme。上述三个Insurance均提供100k欧的insurance coverage。总之，个人认为Revolut和Bunq的安全性尚可。
 PS: Neo banks也受到监管，注册账户一段时间后（比如90天）需要上传BSN等身份信息。
 
-
-
 ### 理财:ok:
 
 常见的理财平台有：
@@ -309,8 +307,6 @@ PS: Neo banks也受到监管，注册账户一段时间后（比如90天）需�
 1. Trading212，Trading212也有老带新优惠，双方各得价值100欧以内股票。我的邀请链接暂时过期，就不放在这里了。
 2. [DEGIRO](https://www.degiro.nl/?utm_source=google&utm_medium=cpc&utm_campaign=BrandExact&utm_content=145448568-18791649048&utm_term=e&gad_source=1&gclid=CjwKCAjwnei0BhB-EiwAA2xuBuNbsnDkn_V5gZpsdmZhpWIue9jRiJ7ib00ZSdol5WM9nvApgl0QZhoC-5AQAvD_BwE)
 3. [Interactive Brokers](https://www.interactivebrokers.ie/en/whyib/overview.php?gclid=CjwKCAjwnei0BhB-EiwAA2xuBgtL9BLCB-3Of-xV-jYar9oBd0bEwNjyg1V_4E2CxQ21Xuqx6MTOlxoCrO8QAvD_BwE)
-
-
 
 ## 医疗:ok:
 
@@ -364,51 +360,45 @@ WUR的体育中心叫[Sports Centre de Bongerd](https://www.wur.nl/nl/sports-cen
 
 [SCB - Sportaanbod (mendixcloud.com)](https://sporthalreservering.mendixcloud.com/)
 
-## 语言
+## 语言:ok:
 
 ### 英语
 
+由于WUR较低的英语录取门槛，以及中国英语教育的特殊性，大多数中国学生的英语水平都不足以无障碍交流，特别是在非学术场景。英语能力不足的问题进一步导致了学习、社交方面的问题。因此笔者建议，除了极少数对自身英语水平极为自信的同学外，在入学前，入学后认真提升英语水平，防止入学后因为语言导致的一系列问题。提升英语水平可以从以下几个方面入手：
 
-
-
+1. 听力
+   1. 不带字幕地看本专业的大学公开课，反复几遍后听不懂再打开字幕。
+   2. 不带字幕地看欧洲英语街访视频，不建议听美国的街访视频，因为美国口语与欧洲风格的口语有较大不同。
+2. 口语
+   1. 资源与听力相同，跟读并用复述视频中的内容。
+   2. [English Speaking & Pronunciation (face-to-face) - WUR](https://www.wur.nl/en/education-programmes/wageningen-into-languages/language-courses/leaning-english/show-into/english-speaking-pronunciation-face-to-face.htm)
+3. 阅读
+   1. 词汇量，建议使用[墨墨背单词](https://www.maimemo.com/)，[Anki ](https://apps.ankiweb.net/)等利用[间隔重复](https://www.kpu.ca/sites/default/files/Learning Centres/Think_SpacedRepetition_LA.pdf) (spaced repetition)提高记忆效率的工具。
+   2. 阅读时一定要厘清句子结构，不要拘于懂个大概。
+4. 写作
+   1. WUR有免费的写作课程。[Wageningen Writing Lab - WUR](https://www.wur.nl/en/education-programmes/current-students/wageningen-writing-lab-1.htm)
+   2. 语法和风格。写作时使用[LanguageTool](https://languagetool.org/)，[Grammarly](https://app.grammarly.com/)等软件检查，参考软件给出的修改建议，在以后的写作中时刻提醒自己。
 
 ### 荷兰语
 
+在荷兰生活英语完全足够，学校、政府工作人员的英语基本都高于中国留学生平均水平。然而，如果你想要留在荷兰发展，或者深入了解荷兰文化，荷兰语仍然是必不可少的。
+
+对于想要留在荷兰的朋友，目前荷兰永居的语言要求是通过荷兰语[A2](https://ind.nl/en/extend-renew-and-change/permanent-residency/permanent-residence-permit)水平融入考，且语言要求可能在以后上升到B1。在找工作期间，掌握荷兰语或者对荷兰语学习的意愿在很多荷兰企业的招聘过程中是加分项，因为不少企业，尤其是家族企业，希望你在他们那干一辈子，不希望你中途回国或者去其他欧洲国家，这种情况下学习荷兰语是一个愿意留在荷兰的标志。在工作后，除非你在国际员工占比高的地方工作，否则荷兰语一定会让你在职场中的处于劣势，大到办公室政治丧失大量信息，小到coffe chat被语言孤立。
+
+对于不确定是否留荷兰，或者对荷兰文化不感兴趣的朋友，建议学习最常用的荷兰语用来打招呼、处理日常事务。用荷兰语打招呼能快速拉近与荷兰人的距离，留下较好的第一印象。在日常生活中，也经常能遇到英语不好的底层劳动者。
+
+想要学习荷兰语，可以参加WUR免费的[荷兰语入门课程](https://www.wur.nl/en/education-programmes/wageningen-into-languages/language-courses/learning-dutch/show-into/social-dutch-1.htm)，课程比较火爆，需要提前几个月报名。在日常学习、生活中也可以让荷兰同学当你的免费荷兰语教练。瓦村市中心的[Thuis Wageningen](https://www.thuiswageningen.nl/)组织的荷兰语吧（Nederlands Taalcafe)也不错，可以和瓦村市民一起练习荷兰语。
+
+| <img src="README.assets/thuis_wageningen.png" alt="image-20240731130421926" style="zoom:50%;" /> |
+| :----------------------------------------------------------: |
+|                   Thuis Wageningen荷兰语吧                   |
 
 
-最常用的荷兰语强烈建议学习，能留下很好的第一印象，快速拉近与荷兰人的距离。
+## 社交:ok:
 
+保持社交是避免心理问题的方法之一。在中国学生圈子里，除了每栋学生公寓的微信群外，还有各种吃饭、拼单、游玩的群。从共同爱好来看，瓦村有各种爱好组织，体育、烹饪、游戏、舞蹈以及农学院校特色的[种田](https://creativegardenwageningen.wordpress.com/)都能轻松找到。在日常生活中，同项目的学生、老师是重要的社交对象，课间的时候建议不要玩手机，直接“How are you?”起手问问同学的日常琐事，熟络起来之后就可以组织各种活动进一步从同学发展为朋友关系了，关系起步阶段最合适的活动是potluck、bbq、party等人人能轻松参与的活动，后续可以安排一起出游，体育项目。一般来讲各个项目的学生也会组织类似的活动，不熟悉组织活动的同学可以从中学习。一般来讲荷兰人朋友比较难交到，因为荷兰太小，不少荷兰人会选择周末回家找童年好友一起玩，但笔者还是建议想留在荷兰的同学多认识荷兰人，这样以后在荷兰混容易找到人帮忙。
 
-
-ThuisWageningen
-
-Into Language
-
-
-
-## 社交
-
-
-
-### 社交渠道
-
-课程同学
-
-爱好组织
-
-
-
-### 组织活动
-
-Party最为稳妥
-
-
-
-
-
-## 学习
-
-
+## 学习:ok:
 
 ### 难度:ok:
 
@@ -427,70 +417,69 @@ Party最为稳妥
 
 | <img src="README.assets/MBE_grading_table.png" alt="MBF" style="zoom:50%;" /> |
 | :----------------------------------------------------------: |
-|        Gtading Table for MBE, academic year 2023-2024        |
+|        Grading Table for MBE, academic year 2023-2024        |
 
-### 组队技巧
+### 选课技巧:ok:
 
-团建活动
+WUR所有课程往年的学生教评都可以在[Study handbook](https://studyhandbook.wur.nl/modules/FTE35306)上查看，尽量避开差评多的课程。如果你想要拿高分，可以选择学生反映给分高的课程。
 
-瓦村密室逃脱，[Escape Room Wageningen](https://maps.app.goo.gl/M4uZDYLtYf6VuQtv9)
+### 组队技巧:ok:
 
-隔壁Veenendaal的保龄球，[Olround Bowling Veenendaal](https://maps.app.goo.gl/7jvGJAdz1MtLiS5V6)
+折磨人的队友是瓦村学习中一大困扰。WUR大部分课程考试分数占50%，课程报告分数占50%，队友质量非常影响报告的分数。对于可自由组队的课程，可以提前找好靠谱的朋友，或者在开课后高强度社交，通过了解专业、志向、分数等方式找到靠谱的人并组队。
 
-NK对面[Onder de Linden](https://maps.app.goo.gl/zHwNknfEbBYRCQVJ6), 市中心[De Kater](https://maps.app.goo.gl/56jpuRMuM7Bi464X7)之类的Cafe。
+### 备考技巧:ok:
 
-### 一些小技巧
+一定要学会抓大放小，[帕累托法则](https://zh.wikipedia.org/wiki/帕累托法则)同样适用于学习——20%的知识能帮你拿到80%的分数。通过查看课程的learning goal以及与老师聊天等方式可以得知重点。
 
-给老师留下好印象
+### 向上管理:ok:
 
-二八原则
+一个非常离谱但又真实的情况是，对于很多课程，WUR的老师在阅卷时能够看到学生的名字...所以给老师留下好印象就非常重要。通常来讲，只要你上课坐前排，多和老师互动，你在老师心中的印象分就会比较高。除了最后课程能拿到高分外，良好的印象也能帮你更轻松地获得老师手头的资源，比如TA，intern，PhD机会。
 
-Unilever和Plus Ultra2可以白嫖咖啡
+## 兼职:ok:
 
+留学生在荷兰兼职可以被雇佣或者自由职业（Freelance），雇佣情况下选择每周不超过[16小时](https://ind.nl/en/residence-permits/work/employing-a-foreign-national#:~:text=A foreign student is only,in June%2C July and August.)，或者6，7，8月全职。并且需要申请[TWV](https://www.uwv.nl/en/employers/work-permits)许可，通过时间一周到两个月不等，建议按照一个月预估。打工期间需要买[Dutch Basic health insurance](https://www.hetcak.nl/en/uninsured/getting-dutch-health-insurance/)，价格基本在120-150欧左右，学生可以申请[荷兰政府的医保补贴](https://www.government.nl/topics/health-insurance/applying-for-healthcare-benefit)，基本能覆盖保险全部金额。做Freelance的情况下，[工作时间没有限制](https://www.kvk.nl/en/starting/freelancing-as-a-student/)。学生做的freelance通常在医疗保健、餐饮或物流行业，这些工作往往可以在一些app上找到，并且时间非常灵活，常见的找freelance工作的平台有[YoungOnes](https://youngones.com/nl/)，[Temper](https://go.temper.works/en-nl)。需要注意的是，在荷兰做Freelance需要申请一个[KVK号](https://www.kvk.nl/en/starting/kvk-number-all-you-need-to-know/)用来缴税。
 
+最常见的学生兼职有：
 
-## 兼职
+1. 送外卖
+2. 餐厅打工
+3. 超市码货
+4. TA(Teaching Assistant)
+5. ...
 
-### TWV
+TA是所有兼职中最轻松的，因为大多数学生提问不积极...对于需要TA的课，当TA最常见的方式是第一年上这门课多跟老师互动，取得好成绩，然后老师就会邀请你当次年的TA。第二种方法是直接问自己比较熟的老师，让他收你做TA，或者推荐。其他兼职的申请主要靠朋友推荐、进店问，和官网申请。
 
-留学生打工需要申请[TWV](https://www.uwv.nl/en/employers/work-permits)许可，通过时间一周到两个月不等，建议按照一个月预估。打工期间需要买[Dutch Basic health insurance](https://www.hetcak.nl/en/uninsured/getting-dutch-health-insurance/)，价格基本在120-150欧左右，学生可以申请[荷兰政府的医保补贴](https://www.government.nl/topics/health-insurance/applying-for-healthcare-benefit)，基本能覆盖保险全部金额。
+建议补充阅读Erasmus University的兼职指导：
 
-
-
-### Freelance
-
-
-
-
-
-
-
-### TA (Teaching Asisstant)
-
-对于需要TA的课，当TA最常见的方式是第一年上这门课多跟老师互动，取得好成绩，然后老师就会邀请你当次年的TA。
-
-### 杂工
-
-送外卖
-
-1. [Thuisbezorg](https://www.thuisbezorgd.nl/bezorger?utm_source=mainsite&utm_medium=Referral&utm_campaign=RC_M_WS_NLD_NL_[SCOOB]_[AWRN]_[OWMD]_[Nederlands])
-2. 餐厅服务员
+[Work while you study | Erasmus University Rotterdam (eur.nl)](https://www.eur.nl/en/education/practical-matters/orientation-arrival/work-while-you-study)
 
 
 
+## 文化:ok:
 
+拿捏荷兰的工作生活文化能让我们地生活更加美好。
 
+### 主动
 
+荷兰干啥都看重motivation，而主动出击就是展现motivation最重要的方法之一。以申请TA为例，同样是提交了申请，不断询问招聘进度，与老师沟通的同学更容易拿到岗位。找科研岗位、企业工作道理类似，通过主动了解、主动询问、主动探讨可能性等方式展现自己的人更容易获得资源。
 
+### 灵活
+
+荷兰只要不是违法的事情，都有一定的操作空间。举一个最常见的例子，预约，假设你预约在10：00-10：15在乌特勒支取居留卡，实际上并不需要你准点到达，当天都能取，许多位置不紧张的预约也是类似的道理，因为工作人员完全没有必要检查你的预约时间。再举一个例子，WUR部分办公楼仅对拥有权限的人开放，原则上讲学生只有在Thesis期间才能获得权限，但你完全可以让导师帮你找个理由把权限开到你毕业。再说一个找实习的例子，你有一家心仪的企业，但官网上没有实习岗位，这时你可以通过与相关人员沟通的方式定制一个实习岗位。总而言之，谈，都可以谈！
+
+### 关系
+
+有人的地方就有社会关系。荷兰社会同样看关系，甚至于比中国社会更看关系。荷兰人找兼职、全职工作、找房都会看看能不能用自己的关系网络搞定，所以一定不要抱着逃避国内讲关系的心态来荷兰，要拓展并管理好自己的关系网络。
 
 
 
 
-## 文化
 
-主动
+## 无关紧要小知识
 
-灵活
-
-直接
+1. [Unilever](https://maps.app.goo.gl/o5B4MMH9Kxq4VQdc9)，[Plus Ultra2](https://maps.app.goo.gl/1QzK36ek8FASDrdE8)，和Helix可以白嫖咖啡。
+2. 就Cafe而言，NK对面[Onder de Linden](https://maps.app.goo.gl/zHwNknfEbBYRCQVJ6)质量远高于市中心[De Kater](https://maps.app.goo.gl/56jpuRMuM7Bi464X7)。
+3. 瓦村密室逃脱很好玩，[Escape Room Wageningen](https://maps.app.goo.gl/M4uZDYLtYf6VuQtv9)，注意学生优惠的时间。
+4. 隔壁城市Veenendaal的保龄球不错，[Olround Bowling Veenendaal](https://maps.app.goo.gl/7jvGJAdz1MtLiS5V6)。
+5. Helix有WUR体验最好的工位。
 
