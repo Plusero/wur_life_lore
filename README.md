@@ -427,13 +427,25 @@ WUR所有课程往年的学生教评都可以在[Study handbook](https://studyha
 
 折磨人的队友是瓦村学习中一大困扰。WUR大部分课程考试分数占50%，课程报告分数占50%，队友质量非常影响报告的分数。对于可自由组队的课程，可以提前找好靠谱的朋友，或者在开课后高强度社交，通过了解专业、志向、分数等方式找到靠谱的人并组队。
 
+### 演讲技巧:ok:
+
+虽然WUR是[4tu.nl](https://www.4tu.nl/en/)的一员，但终究不是一所以工程为主的学校，并且WUR强调interdisciplinary，所以你的听众往往会有许多非专业人士。这种情况下，拿高分的演讲往往是让思路清晰，语言易懂，让所有人理解项目大概思路和要点的演讲，而非做出深度探讨、展示工作量之大和项目难度之大的演讲。笔者在这一点上吃了很多次亏，直到硕士第一年结束才恍然大悟，学弟学妹们一定要注意这点。
+
 ### 备考技巧:ok:
 
 一定要学会抓大放小，[帕累托法则](https://zh.wikipedia.org/wiki/帕累托法则)同样适用于学习——20%的知识能帮你拿到80%的分数。通过查看课程的learning goal以及与老师聊天等方式可以得知重点。
 
 ### 向上管理:ok:
 
-一个非常离谱但又真实的情况是，对于很多课程，WUR的老师在阅卷时能够看到学生的名字...所以给老师留下好印象就非常重要。通常来讲，只要你上课坐前排，多和老师互动，你在老师心中的印象分就会比较高。除了最后课程能拿到高分外，良好的印象也能帮你更轻松地获得老师手头的资源，比如TA，intern，PhD机会。
+一个非常离谱但又真实的情况是，对于很多课程，WUR的老师在阅卷时能够看到学生的名字...所以给老师留下好印象就非常重要。通常来讲，只要你上课坐前排，多和老师互动，你在老师心中的印象分就会比较高。除了最后课程能拿到高分外，良好的印象也能帮你更轻松地获得老师手头的资源，比如TA，intern，PhD，EngD机会。
+
+### 学习资源:ok:
+
+1. WUR公共的房间可以通过[timeedit.net](https://cloud.timeedit.net/wur_nl/web/student/)预定，不公共的房间可以让有权限的老师帮忙定。
+2. 学校[图书馆](https://www.wur.nl/en/library.htm?utm_source=verkorte_url&utm_medium=redirect)除了借阅书籍外，还提供各种学术相关培训。
+3. WUR绝大多数房间的桌椅都符合人体工学设计，记得调整到健康且舒服的位置哦。
+4. 用学校邮箱可以免费获取很多软件资源，比如[GitHub Student Developer Pack](https://education.github.com/pack/offers)。购买各种服务前一定首先试试能否用学生优惠白嫖。
+5. 关注各建筑墙上的海报，有海量培训和讲座等你发现。
 
 ## 兼职:ok:
 
@@ -452,6 +464,47 @@ TA是所有兼职中最轻松的，因为大多数学生提问不积极...对于
 建议补充阅读Erasmus University的兼职指导：
 
 [Work while you study | Erasmus University Rotterdam (eur.nl)](https://www.eur.nl/en/education/practical-matters/orientation-arrival/work-while-you-study)
+
+## 就业
+
+### Student Career Service 
+
+
+
+### Thesis
+
+WUR标准的硕士结构为首年9月-次年6月上60ECT的课，次年7-8月为暑假，次年9月到后年2月完成Thesis，后年2月到6月做Intern然后拿学位毕业。Thesis对于想要读博的同学至关重要，因为这会是你整个硕士期间对于科研能力最有效的一次考核，也是最有机会发论文的一个机会。在Thesis中拿到9分是在WUR拿[cum laude](https://www.wur.nl/en/contact-wageningen-university-research/frequently-asked-questions.htm)的必要条件，也是后续申博期间的重要加分项。至于发论文，6个月的时间看似太短，但其实只要导师和项目找对，用Thesis的成果发论文在WUR是完全可行的。当然，论文的发表会在Thesis的那6个月后。[FTE组](https://www.wur.nl/en/research-results/chair-groups/plant-sciences/agricultural-biosystems-engineering.htm)的一位管Thesis的老师写道“Past few years, experience has learnt that our MSc thesis projects are of such high quality that some 50% could be presented during conference on agricultural engineering, precision agriculture, horticulture and livestock farming”. 下面是FTE组一些Thesis成果论文发表的例子（引自FTE组BrightSpace页面）：
+
+1. Henten,. E.J. van, Kruize, J.W., 2008. Analysis of a mobile growing system for roses: a simulation study. AgEng2008 – International Conference on Agricultural Engineering, 23 – 25 June 2008, Hersonissos – Crete, Greece, Paper OP-1670, pp. 7
+2. Henten, E.J. van, Stanghellini, C., Bontsema, J., Gallardo, T., Ooster, A. Van ‘t, 2010. Estimating greenhouse ventilation, crop transpiration and roof condensation using an unknown-input observer. Proceedings of the International Conference on Agricultural Engineering – AgEng2010, September 6-8 2010, Clermont-Ferrand, France, Paper REF456, pp. 10.
+3. Henten, E.J. van, Marx, G.E.H., Hofstee, J.W., Hemming, J., Sarlikioti, V., 2012. Measuring Leaf Motion of Tomato by Machine Vision. Acta Horticulturae, 952: 915-922.
+4. Slager, A.A.; Sapounas, A.; Henten, E.J. van; Hemming, S., 2012.
+   Feasibility study on combined production of algae and tomatoes in a Dutch greenhouse.
+   Acta Horticulturae, 956: 569 - 576.
+
+本人所在的[INF组](https://www.wur.nl/en/research-results/chair-groups/social-sciences/information-technology-group.htm)近两年也有Thesis学生发表论文的案例，论文的名字我忘记记录了，但会议和期刊都有。
+
+如果想发论文，导师和项目怎么找呢？
+
+
+
+### 实习
+
+WUR的两年硕士项目都有24ECT，也就是四个月的[internship](https://www.wur.nl/en/research-results/chair-groups/social-sciences/operations-research-and-logistics/education/master-internship.htm)，这个intern时间可以延长至6个月甚至更多。Intern可以在企业做，也可以用学校里做的[Research Practice](https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/forest-ecology-and-forest-management-group/education/msc-research-practice.htm)替代，但下文仅讨论去企业做Intern的情况。对于秋季入学的同学，往往会在毕业年2月-开始实习，在6月或者8月结束实习。一般建议提前半年开始找实习，也就是硕士第二年的9月，这也是许多大公司统一放出次年实习时间点。荷兰实习非常好找，除了部分待遇优厚、竞争激烈的互联网、量化大厂外，其他公司只要你的教育背景对口，英语ok，intern基本没有被拒的可能。背后的原因是荷兰做intern的学生对于企业而言是优质廉价劳动力。法律上做intern的学生是在企业接受教育，所以企业可以不支付任何薪酬。虽然大多数企业会给一定的钱作为补偿，但农学、食品领域大部分企业只能给到300欧每月，只有Unilever等大厂能给到600欧。由于大多数企业实习时间长度为6个月，所以前述6月做完实习毕业就会变成8月毕业，这意味着你在WUR读书期间不能有任何差错，否则就要延毕，因此我建议不想延毕的同学尽早开始Thesis和Intern。
+
+找实习时一定要结合自己
+
+### 工作
+
+
+
+### 读博
+
+
+
+### 心态
+
+要么早日
 
 
 
@@ -475,11 +528,12 @@ TA是所有兼职中最轻松的，因为大多数学生提问不积极...对于
 
 
 
-## 无关紧要小知识
+## 小知识
 
 1. [Unilever](https://maps.app.goo.gl/o5B4MMH9Kxq4VQdc9)，[Plus Ultra2](https://maps.app.goo.gl/1QzK36ek8FASDrdE8)，和Helix可以白嫖咖啡。
 2. 就Cafe而言，NK对面[Onder de Linden](https://maps.app.goo.gl/zHwNknfEbBYRCQVJ6)质量远高于市中心[De Kater](https://maps.app.goo.gl/56jpuRMuM7Bi464X7)。
 3. 瓦村密室逃脱很好玩，[Escape Room Wageningen](https://maps.app.goo.gl/M4uZDYLtYf6VuQtv9)，注意学生优惠的时间。
 4. 隔壁城市Veenendaal的保龄球不错，[Olround Bowling Veenendaal](https://maps.app.goo.gl/7jvGJAdz1MtLiS5V6)。
 5. Helix有WUR体验最好的工位。
+6. 在AH买不到排骨，但是Jumbo可以。
 
