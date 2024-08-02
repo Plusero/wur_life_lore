@@ -400,6 +400,20 @@ WUR的体育中心叫[Sports Centre de Bongerd](https://www.wur.nl/nl/sports-cen
 
 ## 学习:ok:
 
+### 重要性:ok:
+
+对于准备回国就业的同学，在WUR的成绩不重要，因为国内校招初筛主要看本科学校，面试又完全取决于个人能力。
+
+对于要在欧洲读博的同学，成绩非常重要，因为荷兰授课硕的特性导致绝大多数人都不会像国内硕士一样有论文发表，在没有发表和强推荐信的情况下，成绩是申博时最重要的筹码。WUR许多老师明确表示会优先选择拿了cum laude（均分8+，thesis 9+）的学生作为博士生。
+
+对于准备留荷兰工作的同学，笔者也建议朝着拿一个好成绩的方向走。就我个人的观察而言，好成绩和毕业后好的发展是显著正相关的，**我从未见过在荷兰拿了cum laude毕业的人毕业后愁找不到工作**，但成绩平平找不到工作的人却有一大把。虽然大多数企业不会直接用成绩来筛人，但一些企业的优质项目，比如下图的ASML奖学金对成绩有要求。此外，取得好成绩的过程中，人往往会收获优质项目经历、论文发表等成果，而这些成果在任何地方都会得到认可。
+
+总而言之，对于准备在欧洲发展的同学，千万不要用“在欧洲成绩不重要”麻痹自己，如果你无法保证毕业时有论文发表、优质项目等能让你脱颖而出的经历，以好成绩为目标是最稳妥的选择。
+
+| <img src="README.assets/ASML_scholarship.jpg" alt="ASML_scholarship" style="zoom:50%;" /> |
+| :----------------------------------------------------------: |
+|                       ASML Scholarship                       |
+
 ### 难度:ok:
 
 不同项目不同课程的难度差异很大，但从统计上来讲，中国学生在WUR拿8+的分数并不算太难。WUR有各专业的[Grading Table](https://www.wur.nl/en/education-programmes/study-abroad-and-exchange-students/outgoing-from-wageningen-university/grading-table.htm)，可以看到近一年各项目授予分数的分布，我个人在简单浏览后发现各项目8分及以上分数的比例为30-50%不等。需要注意的是这个Grading Table并不是所有人的均分，而是特定分数的被授予的数量。
@@ -467,13 +481,11 @@ TA是所有兼职中最轻松的，因为大多数学生提问不积极...对于
 
 ## 就业
 
-### Student Career Service 
+WUR标准的硕士结构为首年9月-次年6月上60ECT的课，次年7-8月为暑假，次年9月到后年2月完成Thesis，后年2月到6月做Intern然后拿学位毕业。
 
+### Thesis:ok:
 
-
-### Thesis
-
-WUR标准的硕士结构为首年9月-次年6月上60ECT的课，次年7-8月为暑假，次年9月到后年2月完成Thesis，后年2月到6月做Intern然后拿学位毕业。Thesis对于想要读博的同学至关重要，因为这会是你整个硕士期间对于科研能力最有效的一次考核，也是最有机会发论文的一个机会。在Thesis中拿到9分是在WUR拿[cum laude](https://www.wur.nl/en/contact-wageningen-university-research/frequently-asked-questions.htm)的必要条件，也是后续申博期间的重要加分项。至于发论文，6个月的时间看似太短，但其实只要导师和项目找对，用Thesis的成果发论文在WUR是完全可行的。当然，论文的发表会在Thesis的那6个月后。[FTE组](https://www.wur.nl/en/research-results/chair-groups/plant-sciences/agricultural-biosystems-engineering.htm)的一位管Thesis的老师写道“Past few years, experience has learnt that our MSc thesis projects are of such high quality that some 50% could be presented during conference on agricultural engineering, precision agriculture, horticulture and livestock farming”. 下面是FTE组一些Thesis成果论文发表的例子（引自FTE组BrightSpace页面）：
+Thesis对于想要读博的同学至关重要，因为这会是你整个硕士期间对于科研能力最有效的一次考核，也是最有机会发论文的一个机会。在Thesis中拿到9分是在WUR拿[cum laude](https://www.wur.nl/en/contact-wageningen-university-research/frequently-asked-questions.htm)的必要条件，也是后续申博期间的重要加分项。至于发论文，6个月的时间看似太短，但其实只要导师和项目找对，用Thesis的成果发论文在WUR是完全可行的。当然，论文的发表会在Thesis的那6个月后。[FTE组](https://www.wur.nl/en/research-results/chair-groups/plant-sciences/agricultural-biosystems-engineering.htm)一位管Thesis的老师写道“Past few years, experience has learnt that our MSc thesis projects are of such high quality that some 50% could be presented during conference on agricultural engineering, precision agriculture, horticulture and livestock farming”. 下面是FTE组一些Thesis成果论文发表的例子（引自FTE组BrightSpace页面）：
 
 1. Henten,. E.J. van, Kruize, J.W., 2008. Analysis of a mobile growing system for roses: a simulation study. AgEng2008 – International Conference on Agricultural Engineering, 23 – 25 June 2008, Hersonissos – Crete, Greece, Paper OP-1670, pp. 7
 2. Henten, E.J. van, Stanghellini, C., Bontsema, J., Gallardo, T., Ooster, A. Van ‘t, 2010. Estimating greenhouse ventilation, crop transpiration and roof condensation using an unknown-input observer. Proceedings of the International Conference on Agricultural Engineering – AgEng2010, September 6-8 2010, Clermont-Ferrand, France, Paper REF456, pp. 10.
@@ -482,17 +494,19 @@ WUR标准的硕士结构为首年9月-次年6月上60ECT的课，次年7-8月为
    Feasibility study on combined production of algae and tomatoes in a Dutch greenhouse.
    Acta Horticulturae, 956: 569 - 576.
 
-本人所在的[INF组](https://www.wur.nl/en/research-results/chair-groups/social-sciences/information-technology-group.htm)近两年也有Thesis学生发表论文的案例，论文的名字我忘记记录了，但会议和期刊都有。
+本人所在的[INF组](https://www.wur.nl/en/research-results/chair-groups/social-sciences/information-technology-group.htm)近两年也有Thesis成果发表的案例，论文的名字我忘记记录了，但会议和期刊都有。
 
 如果想发论文，导师和项目怎么找呢？
 
+导师方面，建议找近期发文量/被引指数上升的AP(Assistant Professor)，他们往往正直学术事业高速发展期，发表意愿强，有拿捏风口的能力。
 
+项目方面，做有funding支持的项目，而非你自己或者导师突发奇想出来的题目。有funding支持的项目往往有deliverable（可交付成果）要求，而在大多数无法落地的研究项目中，论文就是最重要的deliverable，所以参与这样的项目最有可能发表。
 
-### 实习
+### 实习:ok:
 
-WUR的两年硕士项目都有24ECT，也就是四个月的[internship](https://www.wur.nl/en/research-results/chair-groups/social-sciences/operations-research-and-logistics/education/master-internship.htm)，这个intern时间可以延长至6个月甚至更多。Intern可以在企业做，也可以用学校里做的[Research Practice](https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/forest-ecology-and-forest-management-group/education/msc-research-practice.htm)替代，但下文仅讨论去企业做Intern的情况。对于秋季入学的同学，往往会在毕业年2月-开始实习，在6月或者8月结束实习。一般建议提前半年开始找实习，也就是硕士第二年的9月，这也是许多大公司统一放出次年实习时间点。荷兰实习非常好找，除了部分待遇优厚、竞争激烈的互联网、量化大厂外，其他公司只要你的教育背景对口，英语ok，intern基本没有被拒的可能。背后的原因是荷兰做intern的学生对于企业而言是优质廉价劳动力。法律上做intern的学生是在企业接受教育，所以企业可以不支付任何薪酬。虽然大多数企业会给一定的钱作为补偿，但农学、食品领域大部分企业只能给到300欧每月，只有Unilever等大厂能给到600欧。由于大多数企业实习时间长度为6个月，所以前述6月做完实习毕业就会变成8月毕业，这意味着你在WUR读书期间不能有任何差错，否则就要延毕，因此我建议不想延毕的同学尽早开始Thesis和Intern。
+WUR的两年硕士项目都有24ECT，也就是四个月的[internship](https://www.wur.nl/en/research-results/chair-groups/social-sciences/operations-research-and-logistics/education/master-internship.htm)，这个intern时间可以延长至6个月甚至更多。Intern可以在企业做，也可以用学校里做的[Research Practice](https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/forest-ecology-and-forest-management-group/education/msc-research-practice.htm)替代，但下文仅讨论去企业做Intern的情况。对于秋季入学的同学，往往会在毕业年2月-开始实习，在6月或者8月结束实习。一般建议提前半年开始找实习，也就是硕士第二年的9月，这也是许多大公司统一放出次年实习时间点。荷兰实习非常好找，除了部分待遇优厚、竞争激烈的互联网、量化大厂外，其他公司只要你的教育背景对口，英语ok，intern基本没有可能被拒。背后的原因是荷兰做intern的学生对于企业而言是优质廉价劳动力。法律上做intern的学生是在企业接受教育，所以企业可以不支付任何薪酬。虽然大多数企业会给一定的钱作为补偿，但农学、食品领域大部分企业只能给到300欧每月，只有Unilever等大厂能给到600欧。由于大多数企业实习时间长度为6个月，所以前述6月做完实习毕业就会变成8月毕业，这意味着你在WUR读书期间不能有任何差错，否则就要延毕，因此我建议不想延毕的同学尽早开始Thesis和Intern。
 
-找实习时一定要结合自己
+实习的企业和岗位至关重要，因为很多WUR人毕业后会留在实习企业工作。选择企业时不要只看名气大小，有的大公司业绩不好，连续多年降本增效，加入这样的大企业不如做优质业务蓬勃发展的中小企业。选择岗位时，要学会通过看jd和找人打听的方式判断intern岗位是否是短期廉价劳动力。举例说明，一个在农业企业非常常见的情况是，老板有一个拍脑袋想出来的炫酷想法，不确定是否有商业前景，也舍不得花钱请人全职做R&D，于是就从WUR招每个月成本不过几百欧的实习生来做。这样的廉价劳动力intern岗位做完之后留用的概率非常小。相比之下，一些看似没有那么高大上，不那么academic的岗位，反倒容易被企业发return offer，因为这样的实习生熟悉企业业务，入职后不需要过多培训就能上手干活，是经济下行期企业最喜欢的类型。这类非academic岗位与WUR对 internship的学术性的要求有一定矛盾，但荷兰凡事皆可谈，提前准备与academic advisor等人谈判就好。
 
 ### 工作
 
