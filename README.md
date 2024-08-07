@@ -6,8 +6,6 @@
 
 
 
-
-
 ## 新生租房:ok:
 
 ### 新生租房简介
@@ -210,11 +208,11 @@ OV卡办理有两种方式，第一种是去官方购买[OV-Chipkaart.nl - OV-Ch
 
 ### 超市
 
-> 各大连锁超市基本都有会员卡，一定要注册，能省下很多钱。一般来讲线上注册
+> 各大连锁超市基本都有会员卡，一定要注册，能省下很多钱。一般来讲线上注册然后手机app里调用。
 
 [Jumbo](https://maps.app.goo.gl/jKDPLte92FNiLvdT7)，最常见的荷兰连锁超市之一，离B楼、D楼、H楼非常近
 
- [Groentehal De Goudreinet](https://maps.app.goo.gl/TZhWMbJCf1dsXCBN6), Jumbo对面的蔬菜店
+[Groentehal De Goudreinet](https://maps.app.goo.gl/TZhWMbJCf1dsXCBN6), Jumbo对面的蔬菜店
 
 [新中国](https://maps.app.goo.gl/Ki8G47kgc9xQYwPG6Jumbo), Jumbo对面的中国超市，非常方便但是价格很高
 
@@ -247,6 +245,18 @@ OV卡办理有两种方式，第一种是去官方购买[OV-Chipkaart.nl - OV-Ch
 瓦村每周三8：30-13：00，每周六8：30-17：00有集市，可以买到新鲜的海产、肉和蔬菜，以及各种杂物。
 
 参见，[Koopzondagen en markt - Gemeente Wageningen](https://www.wageningen.nl/direct-regelen/bouwen-wonen-groen/wonen/koopzondagen-en-markt/#:~:text=Elke woensdag van 8.30 tot,Markt%2C Raadhuisplein en de Vijzelstraat.)
+
+### 做饭
+
+如果你想学习做饭，我推荐以下学习资源
+
+1. [老饭骨](https://space.bilibili.com/419872064/video)，国宴大师
+2. [主厨广坦](https://space.bilibili.com/507091844/video)，法国大厨，也做中餐
+3. [奥地利的小胡](https://space.bilibili.com/386165680?spm_id_from=333.337.0.0)，西餐大厨
+4. [美食强](https://space.bilibili.com/240869947?spm_id_from=333.337.0.0)，中式家常菜
+5. [老高](https://space.bilibili.com/3546672569256789/video)，美食家，品鉴美食，讲美食文化，以及烹饪技法
+
+不建议向那些靠美图吸引流量的博主学做饭，他们的理论知识和实战经验都远不如上述频道中的厨师。
 
 ### 日用杂物
 
