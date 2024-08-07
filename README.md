@@ -408,6 +408,36 @@ WUR的体育中心叫[Sports Centre de Bongerd](https://www.wur.nl/nl/sports-cen
 
 保持社交是避免心理问题的方法之一。在中国学生圈子里，除了每栋学生公寓的微信群外，还有各种吃饭、拼单、游玩的群。从共同爱好来看，瓦村有各种爱好组织，体育、烹饪、游戏、舞蹈以及农学院校特色的[种田](https://creativegardenwageningen.wordpress.com/)都能轻松找到。在日常生活中，同项目的学生、老师是重要的社交对象，课间的时候建议不要玩手机，直接“How are you?”起手问问同学的日常琐事，熟络起来之后就可以组织各种活动进一步从同学发展为朋友关系了，关系起步阶段最合适的活动是potluck、bbq、party等人人能轻松参与的活动，后续可以安排一起出游，体育项目。一般来讲各个项目的学生也会组织类似的活动，不熟悉组织活动的同学可以从中学习。一般来讲荷兰人朋友比较难交到，因为荷兰太小，不少荷兰人会选择周末回家找童年好友一起玩，但笔者还是建议想留在荷兰的同学多认识荷兰人，这样以后在荷兰混容易找到人帮忙。
 
+### 开聊技巧
+
+对于i人而言，主动开启聊天犹如上刑场，但其实聊天也是一种可以学习的技能。对于任何场合，可以用如下经典问候语开场：
+
+1. How are you?
+2. How's going？
+
+一般来讲，只要你开了头，善于聊天的欧洲人就会打开他们的话匣子，最差的情况下，他们也会回“good, and you?”，这时候你可以用一些夸张，但能一定能激起人共鸣的回复，比如
+
+1. Fine, but the rain is killing me. 
+2. Good, and the weather is too good to study.
+3. All good, except suffering from the insane workload of this course.
+
+如果话匣子还没打开，可以继续用一些不会错的万能话题：
+
+1. How do you feel about the weather in the Netherlands?
+2. How do you feel about the course/event so far?
+3. How do you feel about the university?
+4. What is your marjor? What was the motivation for you to choose this program?
+5. Do you have any thoughts on your thesis/internship?
+6. Do you play any sport?
+7. How long have you been in Wageningen?
+8. ...
+
+总而言之，问对方关于某件日常事物的想法是最好的选择，这样的开放式问题最容易让人打开话匣子，而且因为人们都喜欢谈论自己，喜欢被倾听。问对方怎么看远比你自己输出观点要好，另外，让对方输出也可以降低自己因为不熟悉对方背景而不小心冒犯到ta的概率。
+
+如果你发现对方挺有意思，对方也没有不耐烦的迹象，可以通过追问、联想的方式继续聊天并深入。比如对方说喜欢足球，你可以问ta踢足球多久了，怎么学的足球，一般什么时候踢足球，如果自己要学足球ta有什么建议...
+
+总而言之，掌握了这一套万能流程后基本上就不怕第一次见面聊天没话说了。
+
 ## 学习:ok:
 
 ### 重要性:ok:
