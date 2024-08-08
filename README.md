@@ -403,6 +403,11 @@ WUR的体育中心叫[Sports Centre de Bongerd](https://www.wur.nl/nl/sports-cen
 | :----------------------------------------------------------: |
 |                   Thuis Wageningen荷兰语吧                   |
 
+这里再推荐几个我最喜欢的荷兰语学习资源：
+
+1. [LingQ](https://www.lingq.com/)，间隔重复工具，可以导入各种类型的语料，然后进行间隔重复学习。
+2. [Een Beetje Nederlands Podcast](https://www.eenbeetjenederlands.nl/)，荷兰语学习podcast，内容为介绍荷兰各方面，非常值得学习。B1水平，但对于英语好的人来讲可以0基础开始使用。
+3. [NOS Jeugdjournaal](https://jeugdjournaal.nl/)，专门为10-19岁青少年定制的广播频道，内容为荷兰时事新闻，水平大概在B2，有的语速比较快，需要有一定基础。
 
 ## 社交:ok:
 
