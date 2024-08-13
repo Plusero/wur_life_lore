@@ -258,6 +258,19 @@ OV卡办理有两种方式，第一种是去官方购买[OV-Chipkaart.nl - OV-Ch
 
 不建议向那些靠美图吸引流量的博主学做饭，他们的理论知识和实战经验都远不如上述频道中的厨师。
 
+### 馆子
+
+1. [Onder de Linden](https://maps.app.goo.gl/pTGT6pp5mpj39FH66), 可能是瓦村最好的Cafe，烤鸡和排骨很好吃。
+2. [Sole d'Italia](https://maps.app.goo.gl/qwJFWpn3rNmvxLC39), 我被很多意大利同学推荐过的意大利餐厅，注意晚上5点后才开门，而且生意好但座位不多，周末去建议提前订座。
+3. [Soek Damascus](https://maps.app.goo.gl/87dTSjVRu8deRax9A), 叙利亚菜。
+4. [东方快餐校园店](https://maps.app.goo.gl/SvJbuXidjJZaj76e6), 在Campus Plaza 0楼，中式快餐。
+5. [Unilever](https://maps.app.goo.gl/i7CxyJ74Y852yMvP8)，Unilever的食堂，中午对外人开放，食材质量高。
+6. [Yummie-Africana](https://maps.app.goo.gl/Wooei2Z9N2KzTL418), 市中心的非洲菜。
+7. [Antalya 07](https://maps.app.goo.gl/vYMLgXXyDw48J6qt7)，土耳其快餐店，卖最经典的Kebab和Kapsalon等快餐。
+8. [Ijssalon Antonio](https://maps.app.goo.gl/zfn1eqc4J4HNNbpMA), 市中心的冰淇淋店。
+9. [Stadsbrouwerij Wageningen](https://maps.app.goo.gl/137mCfSghP17TK3h7), 市酿酒厂，Wageningen Blond最为经典。
+10. [Caffè Tola](https://maps.app.goo.gl/xfBWPdAF7tGhCTZNA), 小咖啡馆，玫瑰拿铁非常推荐。
+
 ### 日用杂物
 
 [Action](https://maps.app.goo.gl/gewnGTc8KCY4Cax26)，市中心的杂物店，有各种家居用品价格便宜品质一般。
