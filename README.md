@@ -536,6 +536,11 @@ WUR所有课程往年的学生教评都可以在[Study handbook](https://studyha
 4. 用学校邮箱可以免费获取很多软件资源，比如[GitHub Student Developer Pack](https://education.github.com/pack/offers)。购买各种服务前一定首先试试能否用学生优惠白嫖。
 5. 关注各建筑墙上的海报，有海量培训和讲座等你发现。
 
+### 协作工具
+
+1. Deepnote
+2. Overleaf
+
 ## 兼职:ok:
 
 留学生在荷兰兼职可以被雇佣或者自由职业（Freelance），雇佣情况下选择每周不超过[16小时](https://ind.nl/en/residence-permits/work/employing-a-foreign-national#:~:text=A foreign student is only,in June%2C July and August.)，或者6，7，8月全职。并且需要申请[TWV](https://www.uwv.nl/en/employers/work-permits)许可，通过时间一周到两个月不等，建议按照一个月预估。打工期间需要买[Dutch Basic health insurance](https://www.hetcak.nl/en/uninsured/getting-dutch-health-insurance/)，价格基本在120-150欧左右，学生可以申请[荷兰政府的医保补贴](https://www.government.nl/topics/health-insurance/applying-for-healthcare-benefit)，基本能覆盖保险全部金额。做Freelance的情况下，[工作时间没有限制](https://www.kvk.nl/en/starting/freelancing-as-a-student/)。学生做的freelance通常在医疗保健、餐饮或物流行业，这些工作往往可以在一些app上找到，并且时间非常灵活，常见的找freelance工作的平台有[YoungOnes](https://youngones.com/nl/)，[Temper](https://go.temper.works/en-nl)。需要注意的是，在荷兰做Freelance需要申请一个[KVK号](https://www.kvk.nl/en/starting/kvk-number-all-you-need-to-know/)用来缴税。
