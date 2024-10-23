@@ -104,6 +104,8 @@ Idealis的工作时间非常短，这非常不利于新生取钥匙。第一种�
 
 ### 健康补贴
 
+健康补贴只在
+
 ### 水税
 
 
@@ -219,6 +221,12 @@ OV卡办理有两种方式，第一种是去官方购买[OV-Chipkaart.nl - OV-Ch
 
 除了周免卡外，NS的其他各种优惠也可以在[NS官网](https://www.ns.nl/abonnementen/)办理。
 
+## 免费上厕所
+
+万恶的欧洲资本主义
+
+[HogeNood - Find and Rate Toilets](https://en.hogenood.nl/)
+
 ## 购物:ok:
 
 ### 超市
@@ -265,11 +273,11 @@ OV卡办理有两种方式，第一种是去官方购买[OV-Chipkaart.nl - OV-Ch
 
 如果你想学习做饭，我推荐以下学习资源
 
-1. [老饭骨](https://space.bilibili.com/419872064/video)，国宴大师
-2. [主厨广坦](https://space.bilibili.com/507091844/video)，法国大厨，也做中餐
-3. [奥地利的小胡](https://space.bilibili.com/386165680?spm_id_from=333.337.0.0)，西餐大厨
-4. [美食强](https://space.bilibili.com/240869947?spm_id_from=333.337.0.0)，中式家常菜
-5. [老高](https://space.bilibili.com/3546672569256789/video)，美食家，品鉴美食，讲美食文化，以及烹饪技法
+1. [老饭骨](https://space.bilibili.com/419872064/video)，国宴大师。
+2. [主厨广坦](https://space.bilibili.com/507091844/video)，法国大厨，也做中餐。
+3. [奥地利的小胡](https://space.bilibili.com/386165680?spm_id_from=333.337.0.0)，西餐大厨。
+4. [美食强](https://space.bilibili.com/240869947?spm_id_from=333.337.0.0)，中式家常菜。
+5. [老高](https://space.bilibili.com/3546672569256789/video)，美食家，品鉴美食，讲美食文化，以及烹饪技法。
 
 不建议向那些靠美图吸引流量的博主学做饭，他们的理论知识和实战经验都远不如上述频道中的厨师。
 
@@ -627,3 +635,14 @@ WUR的两年硕士项目都有24ECT，也就是四个月的[internship](https://
 5. Helix有WUR体验最好的工位。
 6. 在AH买不到排骨，但是Jumbo可以。
 
+### myWUR Today
+
+[myWURtoday](https://www.wur.nl/en/education-programmes/current-students/mywurtoday.htm)是学校的信息平台，能帮助学生快速查看校内各种信息，包括但不限于课程时间表，校方通知，校园新闻，各类活动，你可以选择性地订阅各种信息，非常方便。
+
+我个人最常用的功能是日历，显示你的课程以及学校邮箱里的日历项目。
+
+<img src="README.assets/mywur_schedule.PNG" alt="mywur_schedule" style="zoom:33%;" />
+
+其次是新闻，主要用来看学校的各种通知、校园里的各种活动。下图显示了两个参与实验拿礼品卡、一个校园荷兰语、一个校内工作机会。
+
+![image-20241023102904734](README.assets/mywurtoday.png)
