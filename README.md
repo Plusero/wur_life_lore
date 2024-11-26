@@ -228,7 +228,7 @@ OV卡办理有两种方式，第一种是去官方购买[OV-Chipkaart.nl - OV-Ch
 
 [新中国](https://maps.app.goo.gl/Ki8G47kgc9xQYwPG6Jumbo), Jumbo对面的中国超市，非常方便但是价格很高
 
-[AH](https://maps.app.goo.gl/dbKep3Hy6yKBu1wM8)，荷兰最大的连锁超市，离Javastraat和Churchillweg非常近，是我最喜欢的超市，品质高，app体验好，价格在有折扣的情况下并不贵，强烈建议开他家的12欧一年的Premium会员，可以获得很多额外的折扣，基本一个月就回本了。与AH联动的[Air Miles](https://www.airmiles.nl/)也一定要打开，购物积分后可以换各种优惠券或者购物抵现金。AH的[Koopzegels]([Koopzegels nu digitaal sparen | Albert Heijn (ah.nl)](https://www.ah.nl/acties/koopzegels?gad_source=1&gclid=CjwKCAjw4_K0BhBsEiwAfVVZ_-DryLxTLEsivbfaal-klaGLmKdrYZbSQI9spxPMCzcRS8j3F-X7xBoCxqMQAvD_BwE))对于以AH为主力超市的同学来说也是不错的理财产品，每次购物赞Koopzegel，攒满49欧后可以换52欧现金，或者在购物时抵扣52欧。
+[AH](https://maps.app.goo.gl/dbKep3Hy6yKBu1wM8)，荷兰最大的连锁超市，离Javastraat和Churchillweg非常近，是我最喜欢的超市，品质高，app体验好，价格在有折扣的情况下并不贵，强烈建议开他家的12欧一年的Premium会员，可以获得很多额外的折扣，基本一个月就回本了。与AH联动的[Air Miles](https://www.airmiles.nl/)也一定要打开，购物积分后可以换各种优惠券或者购物抵现金。AH的[Koopzegels]([Koopzegels nu digitaal sparen | Albert Heijn (ah.nl)](https://www.ah.nl/acties/koopzegels?gad_source=1&gclid=CjwKCAjw4_K0BhBsEiwAfVVZ_-DryLxTLEsivbfaal-klaGLmKdrYZbSQI9spxPMCzcRS8j3F-X7xBoCxqMQAvD_BwE))对于以AH为主力超市的同学来说也是不错的理财产品，每次购物赞Koopzegel，攒满49欧后可以换52欧现金，或者在购物时抵扣52欧。对于洗发水等日用品，**不建议在AH购买**，[Etos](https://maps.app.goo.gl/Ew2GH9ShT5NfiTSo9)、[Kruivat](https://maps.app.goo.gl/dSBfWu19GRyhdyNC9)的优惠更大。
 
 [Foladi Groenten & Fruit](https://maps.app.goo.gl/hjJgJfzCDMjLJ7Ls6), AH对面的蔬菜店，品质很好但是价格较高。
 
