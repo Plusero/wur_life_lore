@@ -93,7 +93,7 @@ Idealis的工作时间非常短，这非常不利于新生取钥匙。第一种�
 
 ### 健康补贴
 
-健康补贴只在
+
 
 ### 水税
 
@@ -262,13 +262,16 @@ OV卡办理有两种方式，第一种是去官方购买[OV-Chipkaart.nl - OV-Ch
 
 如果你想学习做饭，我推荐以下学习资源
 
-1. [老饭骨](https://space.bilibili.com/419872064/video)，国宴大师。
-2. [主厨广坦](https://space.bilibili.com/507091844/video)，法国大厨，也做中餐。
-3. [奥地利的小胡](https://space.bilibili.com/386165680?spm_id_from=333.337.0.0)，西餐大厨。
-4. [美食强](https://space.bilibili.com/240869947?spm_id_from=333.337.0.0)，中式家常菜。
-5. [老高](https://space.bilibili.com/3546672569256789/video)，美食家，品鉴美食，讲美食文化，以及烹饪技法。
+1. [老饭骨](https://space.bilibili.com/419872064/video)，国宴大师，郑秀生大师在世时质量极高。
+2. [隋卞](https://space.bilibili.com/3493079591946694)，郑秀生老师徒弟， 希尔顿、洲际酒店行政总厨。
+3. [师父和我做鲁菜](https://space.bilibili.com/490775325)，陈宗明老师账号，颜派鲁菜传承人。
+4. [王刚](https://space.bilibili.com/290526283)，川菜高手，开源餐饮界知识。
+5. [主厨广坦](https://space.bilibili.com/507091844/video)，法国大厨，也做中餐。
+6. [奥地利的小胡](https://space.bilibili.com/386165680)，西餐大厨。
+7. [美食强](https://space.bilibili.com/240869947)，中式家常菜。
+8. [老高](https://space.bilibili.com/3546672569256789/video)，美食家，品鉴美食，讲美食文化，以及烹饪技法。
 
-不建议向那些靠美图吸引流量的博主学做饭，他们的理论知识和实战经验都远不如上述频道中的厨师。
+不建议向那些靠美图吸引流量的博主学做饭，他们的理论知识和实战经验相比上述高手都有所欠缺。
 
 ### 馆子
 
