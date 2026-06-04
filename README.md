@@ -2,9 +2,9 @@
 
 > 本文从一个WUR硕士项目新生的视角分享瓦村生活知识，因此主要适用于WUR硕士新生参考。本项目大多数内容写于2024年，请读者注意时效性，同时也欢迎大家更新此文档，为后来者提供参考。
 
-标有🆗的章节意味写作完毕。
+标有的章节意味写作完毕。
 
-## 新生租房🆗
+## 新生租房
 
 ### 新生租房简介
 
@@ -87,7 +87,7 @@ Idealis的工作时间非常短，这非常不利于新生取钥匙。第一种�
 
 ## 税务和补贴
 
-### 房补申请🆗
+### 房补申请
 
 住idealis studio的新生都可以申请房补，申请流程参见我的知乎回答，[荷兰房补申请流程 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/655821518)。
 
@@ -99,7 +99,7 @@ Idealis的工作时间非常短，这非常不利于新生取钥匙。第一种�
 
 
 
-## 衣着🆗
+## 衣着
 
 每个人的抗寒耐热能力不同，这里把我这个湖南人在瓦村的穿搭习惯列出以供参考：
 
@@ -113,7 +113,7 @@ Idealis的工作时间非常短，这非常不利于新生取钥匙。第一种�
 
 
 
-## 自行车🆗
+## 自行车
 
 因为公交车昂贵，覆盖范围小，频次低，自行车是瓦村学生最主要的日常交通工具。
 
@@ -188,7 +188,7 @@ Idealis的工作时间非常短，这非常不利于新生取钥匙。第一种�
 
 
 
-## 公交、包车🆗
+## 公交、包车
 
 ### 包车
 
@@ -220,7 +220,7 @@ NS对于延误有补偿机制，[官网](https://www.ns.nl/en/service-and-contac
 
 [HogeNood - Find and Rate Toilets](https://en.hogenood.nl/)
 
-## 购物🆗
+## 购物
 
 ### 超市
 
@@ -271,9 +271,7 @@ NS对于延误有补偿机制，[官网](https://www.ns.nl/en/service-and-contac
 3. [师父和我做鲁菜](https://space.bilibili.com/490775325)，陈宗明老师账号，颜派鲁菜传承人。
 4. [王刚](https://space.bilibili.com/290526283)，川菜高手，开源餐饮界知识。
 5. [主厨广坦](https://space.bilibili.com/507091844/video)，法国大厨，也做中餐。
-6. [奥地利的小胡](https://space.bilibili.com/386165680)，西餐大厨。
-7. [美食强](https://space.bilibili.com/240869947)，中式家常菜。
-8. [老高](https://space.bilibili.com/3546672569256789/video)，美食家，品鉴美食，讲美食文化，以及烹饪技法。
+6. [美食强](https://space.bilibili.com/240869947)，中式家常菜。
 
 不建议向那些靠美图吸引流量的博主学做饭，他们的理论知识和实战经验相比上述高手都有所欠缺。
 
@@ -310,11 +308,11 @@ NS对于延误有补偿机制，[官网](https://www.ns.nl/en/service-and-contac
 
 [Amazon.nl](www.amazon.nl), 亚麻不必多说，货品在海外电商平台中最为齐全。
 
-[Marktplaats](https://www.marktplaats.nl/), 荷兰闲鱼
+[Marktplaats](https://www.marktplaats.nl/), 荷兰闲鱼。
 
 快递建议放到自提点或者快递柜，包裹被偷在瓦村各学生公寓非常常见。
 
-## 通信🆗
+## 通信
 
 荷兰无线网络覆盖良好，我的运营商是Lebara，网络基础设施走KPN，我个人只在极少数封闭建筑里经历过4G信号不强的情况。
 
@@ -329,9 +327,9 @@ NS对于延误有补偿机制，[官网](https://www.ns.nl/en/service-and-contac
 
 记得选择Sim Only套餐，这样远比Prepaid划算。
 
-## 金融🆗
+## 金融
 
-### 银行卡🆗
+### 银行卡
 
 荷兰三大行。ING、ABN、Rabo这荷兰三大银行的银行卡线上申请都需要BSN才能办下来，但线下存在无BSN办下来的可能，并且三家都有免费的学生debit账户。个人比较建议ING和ABN，因为他俩的web和app端都有英语。PS：我办的ABN卡上传居留卡前只能收钱，不能付钱。
 
@@ -340,7 +338,7 @@ Neo Banks。由于BSN、居留卡等身份信息的办理、三大行办卡激�
 至于Neo Banks的安全性，Revolut Bank参与了Lithuanian Deposit Insurance, Bunq B.V.是Dutch Deposit Guarantee Scheme的成员。同时，立陶宛和荷兰作为欧元区国家，都会在2024年全面加入European Deposit Insurance Scheme。上述三个Insurance均提供100k欧的insurance coverage。总之，个人认为Revolut和Bunq的安全性尚可。
 PS: Neo banks也受到监管，注册账户一段时间后（比如90天）需要上传BSN等身份信息。
 
-### 理财🆗
+### 理财
 
 常见的理财平台有：
 
@@ -348,7 +346,7 @@ PS: Neo banks也受到监管，注册账户一段时间后（比如90天）需�
 2. [DEGIRO](https://www.degiro.nl/?utm_source=google&utm_medium=cpc&utm_campaign=BrandExact&utm_content=145448568-18791649048&utm_term=e&gad_source=1&gclid=CjwKCAjwnei0BhB-EiwAA2xuBuNbsnDkn_V5gZpsdmZhpWIue9jRiJ7ib00ZSdol5WM9nvApgl0QZhoC-5AQAvD_BwE)
 3. [Interactive Brokers](https://www.interactivebrokers.ie/en/whyib/overview.php?gclid=CjwKCAjwnei0BhB-EiwAA2xuBgtL9BLCB-3Of-xV-jYar9oBd0bEwNjyg1V_4E2CxQ21Xuqx6MTOlxoCrO8QAvD_BwE)
 
-## 医疗🆗
+## 医疗
 
 荷兰医疗理念与其他欧洲国家类似，全民普及覆盖广泛的医疗保险，能很好地避免因病返贫，但随之而来的坏处是医疗效率较低。虽然荷兰的医疗系统整体上效率比隔壁德国高，但大家也不能抱有太多期待。总体来讲荷兰医疗的效率和医生水平都次于发达地区医院以及欠发达地区中心医院，因此在荷兰一定要注意身体健康，降低患病概率。
 
@@ -360,7 +358,7 @@ PS: Neo banks也受到监管，注册账户一段时间后（比如90天）需�
 
 荷兰家庭医生（GP）的职责是进行分级诊疗，所以GP是我们获得医疗服务的第一站，医院只有在急诊或者GP开转诊单的情况下才接受病人。所有荷兰居民只能用自己的BSN绑定一家GP，在非急诊的情况下也只能找绑定的GP。大多数学生会绑定WUR校园里一家专门接受学生患者的诊所叫[MC (student-mc.nl)](https://www.student-mc.nl/en/register/)，但也可以绑定别的GP，GP信息可以在这里找到[10 huisartsen met de tekst 'Wageningen' in Nederland (zorgkaartnederland.nl)](https://www.zorgkaartnederland.nl/huisarts?zoekterm=Wageningen)， 准备好BSN然后联系GP即可登记，完成后即可找GP预约看病。
 
-GP的诊疗水平一般不会很高，并且秉持能自愈就自愈原则，大多数时候会给你开Paracetamol（扑热息痛），Ibuprofen（布洛芬）等止痛药把你打发走，所以想把自己送去医院得到非止痛的政治
+GP的诊疗水平一般不会很高，并且秉持能自愈就自愈原则，大多数时候会给你开Paracetamol（扑热息痛），Ibuprofen（布洛芬）等止痛药把你打发走。想把自己送去医院得到非止痛的治疗需要把情况描述得非常紧急。
 
 ### 急诊
 
@@ -386,7 +384,7 @@ WUR的中国学生大部分用的保险是Aon，Aon的覆盖范围还不错，�
 
 需要注意的是，关于牙科，Aon保险报销紧急项目（紧急如何定义有aruge空间），洗牙等护理项目不能报销。
 
-## 运动🆗
+## 运动
 
 荷兰娱乐活动远不如国内丰富，但运动氛围非常好，很多小众的运动在WUR也能找到人一起玩。运动是保持身心健康的重要方式，这一价值在荷兰医疗系统效率不高、在异国他乡容易感到孤独的情况下尤为重要。
 
@@ -400,7 +398,7 @@ WUR的体育中心叫[Sports Centre de Bongerd](https://www.wur.nl/nl/sports-cen
 
 [SCB - Sportaanbod (mendixcloud.com)](https://sporthalreservering.mendixcloud.com/)
 
-## 语言🆗
+## 语言
 
 ### 英语
 
@@ -435,11 +433,13 @@ WUR的体育中心叫[Sports Centre de Bongerd](https://www.wur.nl/nl/sports-cen
 
 这里再推荐几个我最喜欢的荷兰语学习资源：
 
-1. [LingQ](https://www.lingq.com/)，间隔重复工具，可以导入各种类型的语料，然后进行间隔重复学习。
+1. [NOS Journaal in Makkelijke Taal](https://www.youtube.com/@NOSJournaalinMakkelijkeTaal), 专为荷兰语学习者定制的荷兰每日新闻，水平大概在A2-B1，非常适合入门。
 2. [Een Beetje Nederlands Podcast](https://www.eenbeetjenederlands.nl/)，荷兰语学习podcast，内容为介绍荷兰各方面，非常值得学习。B1水平，但对于英语好的人来讲可以0基础开始使用。
 3. [NOS Jeugdjournaal](https://jeugdjournaal.nl/)，专门为10-19岁青少年定制的广播频道，内容为荷兰时事新闻，水平大概在B2，有的语速比较快，需要有一定基础。
+4. [LingQ](https://www.lingq.com/)，间隔重复工具，可以导入各种类型的语料，然后进行间隔重复学习。
 
-## 社交🆗
+
+## 社交
 
 保持社交是避免心理问题的方法之一。在中国学生圈子里，除了每栋学生公寓的微信群外，还有各种吃饭、拼单、游玩的群。从共同爱好来看，瓦村有各种爱好组织，体育、烹饪、游戏、舞蹈以及农学院校特色的[种田](https://creativegardenwageningen.wordpress.com/)都能轻松找到。在日常生活中，同项目的学生、老师是重要的社交对象，课间的时候建议不要玩手机，直接“How are you?”起手问问同学的日常琐事，熟络起来之后就可以组织各种活动进一步从同学发展为朋友关系了，关系起步阶段最合适的活动是potluck、bbq、party等人人能轻松参与的活动，后续可以安排一起出游，体育项目。一般来讲各个项目的学生也会组织类似的活动，不熟悉组织活动的同学可以从中学习。一般来讲荷兰人朋友比较难交到，因为荷兰太小，不少荷兰人会选择周末回家找童年好友一起玩，但笔者还是建议想留在荷兰的同学多认识荷兰人，这样以后在荷兰混容易找到人帮忙。
 
@@ -473,9 +473,9 @@ WUR的体育中心叫[Sports Centre de Bongerd](https://www.wur.nl/nl/sports-cen
 
 总而言之，掌握了这一套万能流程后基本上就不怕第一次见面聊天没话说了。
 
-## 学习🆗
+## 学习
 
-### 重要性🆗
+### 重要性
 
 对于准备回国就业的同学，在WUR的成绩不重要，因为国内校招初筛主要看本科学校，面试又完全取决于个人能力。
 
@@ -489,7 +489,7 @@ WUR的体育中心叫[Sports Centre de Bongerd](https://www.wur.nl/nl/sports-cen
 | :---------------------------------------------------------------------------------------: |
 |                                     ASML Scholarship                                      |
 
-### 难度🆗
+### 难度
 
 不同项目不同课程的难度差异很大，但从统计上来讲，中国学生在WUR拿8+的分数并不算太难。WUR有各专业的[Grading Table](https://www.wur.nl/en/education-programmes/study-abroad-and-exchange-students/outgoing-from-wageningen-university/grading-table.htm)，可以看到近一年各项目授予分数的分布，我个人在简单浏览后发现各项目8分及以上分数的比例为30-50%不等。需要注意的是这个Grading Table并不是所有人的均分，而是特定分数的被授予的数量。
 
@@ -508,29 +508,29 @@ WUR的体育中心叫[Sports Centre de Bongerd](https://www.wur.nl/nl/sports-cen
 | :---------------------------------------------------------------------------: |
 |                Grading Table for MBE, academic year 2023-2024                 |
 
-### 选课技巧🆗
+### 选课技巧
 
 WUR所有课程往年的学生教评都可以在[Study handbook](https://studyhandbook.wur.nl/modules/FTE35306)上查看，尽量避开差评多的课程。如果你想要拿高分，可以选择学生反映给分高的课程。
 
-### 组队技巧🆗
+### 组队技巧
 
 折磨人的队友是瓦村学习中一大困扰。WUR大部分课程考试分数占50%，课程报告分数占50%，队友质量非常影响报告的分数。对于可自由组队的课程，可以提前找好靠谱的朋友，或者在开课后高强度社交，通过了解专业、志向、分数等方式找到靠谱的人并组队。
 
 如果你想在不想太多的情况下找到好队友，最简单的办法就是第一节课坐前排，然后跟同样坐前排的同学聊天。前排学生比较努力好学这一点在全世界都一样。
 
-### 演讲技巧🆗
+### 演讲技巧
 
 虽然WUR是[4tu.nl](https://www.4tu.nl/en/)的一员，但终究不是一所以工程为主的学校，并且WUR强调interdisciplinary，所以你的听众往往会有许多非专业人士。这种情况下，拿高分的演讲往往是让思路清晰，语言易懂，让所有人理解项目大概思路和要点的演讲，而非做出深度探讨、展示工作量之大和项目难度之大的演讲。笔者在这一点上吃了很多次亏，直到硕士第一年结束才恍然大悟，学弟学妹们一定要注意这点。
 
-### 备考技巧🆗
+### 备考技巧
 
 一定要学会抓大放小，[帕累托法则](https://zh.wikipedia.org/wiki/帕累托法则)同样适用于学习——20%的知识能帮你拿到80%的分数。通过查看课程的learning goal以及与老师聊天等方式可以得知重点。
 
-### 向上管理🆗
+### 向上管理
 
 一个非常离谱但又真实的情况是，对于很多课程，WUR的老师在阅卷时能够看到学生的名字...所以给老师留下好印象就非常重要。通常来讲，只要你上课坐前排，多和老师互动，你在老师心中的印象分就会比较高。除了最后课程能拿到高分外，良好的印象也能帮你更轻松地获得老师手头的资源，比如TA，intern，PhD，EngD机会。
 
-### 学习资源🆗
+### 学习资源
 
 1. WUR公共的房间可以通过[timeedit.net](https://cloud.timeedit.net/wur_nl/web/student/)预定，不公共的房间可以让有权限的老师帮忙定。
 2. 学校[图书馆](https://www.wur.nl/en/library.htm?utm_source=verkorte_url&utm_medium=redirect)除了借阅书籍外，还提供各种学术相关培训。
@@ -540,10 +540,11 @@ WUR所有课程往年的学生教评都可以在[Study handbook](https://studyha
 
 ### 协作工具
 
-1. Deepnote
-2. Overleaf
+1. [Overleaf](https://www.overleaf.com/project)，一起用LaTeX写报告。
+2. [Deepnote](https://deepnote.com/),多人在线同时编辑Jupyter Notebook.
+   
 
-## 兼职🆗
+## 兼职
 
 留学生在荷兰兼职可以被雇佣或者自由职业（Freelance），雇佣情况下选择每周不超过[16小时](https://ind.nl/en/residence-permits/work/employing-a-foreign-national#:~:text=A foreign student is only,in June%2C July and August.)，或者6，7，8月全职。并且需要申请[TWV](https://www.uwv.nl/en/employers/work-permits)许可，通过时间一周到两个月不等，建议按照一个月预估。打工期间需要买[Dutch Basic health insurance](https://www.hetcak.nl/en/uninsured/getting-dutch-health-insurance/)，价格基本在120-150欧左右，学生可以申请[荷兰政府的医保补贴](https://www.government.nl/topics/health-insurance/applying-for-healthcare-benefit)，基本能覆盖保险全部金额。做Freelance的情况下，[工作时间没有限制](https://www.kvk.nl/en/starting/freelancing-as-a-student/)。学生做的freelance通常在医疗保健、餐饮或物流行业，这些工作往往可以在一些app上找到，并且时间非常灵活，常见的找freelance工作的平台有[YoungOnes](https://youngones.com/nl/)，[Temper](https://go.temper.works/en-nl)。需要注意的是，在荷兰做Freelance需要申请一个[KVK号](https://www.kvk.nl/en/starting/kvk-number-all-you-need-to-know/)用来缴税。
 
@@ -565,7 +566,7 @@ TA是所有兼职中最轻松的，因为大多数学生提问不积极...对于
 
 WUR标准的硕士结构为首年9月-次年6月上60ECT的课，次年7-8月为暑假，次年9月到后年2月完成Thesis，后年2月到6月做Intern然后拿学位毕业。
 
-### Thesis🆗
+### Thesis
 
 Thesis对于想要读博的同学至关重要，因为这会是你整个硕士期间对于科研能力最有效的一次考核，也是最有机会发论文的一个机会。在Thesis中拿到9分是在WUR拿[cum laude](https://www.wur.nl/en/contact-wageningen-university-research/frequently-asked-questions.htm)的必要条件，也是后续申博期间的重要加分项。至于发论文，6个月的时间看似太短，但其实只要导师和项目找对，用Thesis的成果发论文在WUR是完全可行的。当然，论文的发表会在Thesis的那6个月后。[FTE组](https://www.wur.nl/en/research-results/chair-groups/plant-sciences/agricultural-biosystems-engineering.htm)一位管Thesis的老师写道“Past few years, experience has learnt that our MSc thesis projects are of such high quality that some 50% could be presented during conference on agricultural engineering, precision agriculture, horticulture and livestock farming”. 下面是FTE组一些Thesis成果论文发表的例子（引自FTE组BrightSpace页面）：
 
@@ -584,7 +585,7 @@ Thesis对于想要读博的同学至关重要，因为这会是你整个硕士�
 
 项目方面，做有funding支持的项目，而非你自己或者导师突发奇想出来的题目。有funding支持的项目往往有deliverable（可交付成果）要求，而在大多数无法落地的研究项目中，论文就是最重要的deliverable，所以参与这样的项目最有可能发表。
 
-### 实习🆗
+### 实习
 
 WUR的两年硕士项目都有24ECT，也就是四个月的[internship](https://www.wur.nl/en/research-results/chair-groups/social-sciences/operations-research-and-logistics/education/master-internship.htm)，这个intern时间可以延长至6个月甚至更多。Intern可以在企业做，也可以用学校里做的[Research Practice](https://www.wur.nl/en/research-results/chair-groups/environmental-sciences/forest-ecology-and-forest-management-group/education/msc-research-practice.htm)替代[^1]，但下文仅讨论去企业做Intern的情况。对于秋季入学的同学，往往会在毕业年2月-开始实习，在6月或者8月结束实习。一般建议提前半年开始找实习，也就是硕士第二年的9月，这也是许多大公司统一放出次年实习时间点。荷兰实习非常好找，除了部分待遇优厚、竞争激烈的互联网、量化大厂外，其他公司只要你的教育背景对口，英语ok，intern基本没有可能被拒。背后的原因是荷兰做intern的学生对于企业而言是优质廉价劳动力。法律上做intern的学生是在企业接受教育，所以企业可以不支付任何薪酬。虽然大多数企业会给一定的钱作为补偿，但农学、食品领域大部分企业只能给到300欧每月，只有Unilever等大厂能给到600欧。由于大多数企业实习时间长度为6个月，所以前述6月做完实习毕业就会变成8月毕业，这意味着你在WUR读书期间不能有任何差错，否则就要延毕，因此我建议不想延毕的同学尽早开始Thesis和Intern。
 
@@ -603,8 +604,7 @@ WUR的两年硕士项目都有24ECT，也就是四个月的[internship](https://
 ### 心态
 
 
-
-## 文化🆗
+## 文化
 
 拿捏荷兰的工作生活文化能让我们地生活更加美好。
 
