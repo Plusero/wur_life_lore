@@ -214,11 +214,19 @@ OV卡办理有两种方式，第一种是去官方购买[OV-Chipkaart.nl - OV-Ch
 NS对于延误有补偿机制，[官网](https://www.ns.nl/en/service-and-contact/refunds)申请即可。
 官网手动申请比较麻烦，也可以在[trein-vertraging.nl](https://app.trein-vertraging.nl/)这个网站里绑定OV卡后自动批量申请补偿。代价是这个网站会收取一些手续费，一般为总补偿的20-30%。
 
-## 免费上厕所
+## 上厕所指南
+荷兰的公共厕所少，并且很多收费。这里总结一下上厕所地点，按照个人推荐程度排名。
 
-万恶的欧洲资本主义
+1. 政府公共设施，如图书馆(bibliotheek），大学（universiteit，hogeschool），市政厅。这些免费且干净。警察局听说也可以，但po主没试过。
+2. Bijenkorf等大型商场，干净程度尚可，免费。
+3. 博物馆。干净，但不免费。po主一度把博物馆卡称为厕所卡。
+4. 快餐店。个人感觉荷兰挺多快餐店的厕所没有密码，特别是汉堡王。干净程度一般。
+5. 餐厅。通常不免费，如果店员好心会让你免费上，不然就得消费，或者付点钱。
+6. NS的火车，一般比较脏，只适合男士小便。
+7. 火车站的厕所，一般要收费0.5-1欧。干净程度尚可。
+8. 半开放式小便池（plaskrul），只在阿姆等旅游城市有。
+强烈推荐[HogeNood](https://en.hogenood.nl/)这个软件，能在地图上显示附近的洗手间，并且会标明是否残疾、母婴友好
 
-[HogeNood - Find and Rate Toilets](https://en.hogenood.nl/)
 
 ## 购物
 
